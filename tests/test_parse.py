@@ -150,6 +150,56 @@ def test_region_mismatch_wrong_city():
         )
 
 
+def test_far_future_date_with_no_movies_yet_is_empty_not_an_error():
+    """A date far enough ahead that nothing's been scheduled omits 'movies' and
+    'sessions' entirely rather than returning empty collections -- this is a real
+    response shape observed in production, not a hypothetical."""
+    next_data = {
+        "props": {
+            "pageProps": {
+                "data": {
+                    "cityName": "chennai",
+                    "serverState": {
+                        "9505": {
+                            "meta": {
+                                "cinema": {"id": 9505, "cityId": 34, "name": "Cinepolis BSR Mall OMR"},
+                                "amenities": [],
+                                "quickFilterData": {},
+                            },
+                            "pageData": {},
+                        }
+                    },
+                }
+            }
+        }
+    }
+    observations = parse_observations(
+        _wrap(next_data),
+        venue_id="9505",
+        venue_label="BSR Mall",
+        expected_city_id="34",
+        run_id="run-1",
+        observed_at_utc="2026-07-27T12:00:00.000Z",
+    )
+    assert observations == []
+
+
+def test_inconsistent_absence_is_schema_drift():
+    """movies present but sessions missing (or vice versa) is a genuine shape change,
+    not the known far-future-absence case -- must still fail loudly."""
+    next_data = _minimal_valid_next_data()
+    del next_data["props"]["pageProps"]["data"]["serverState"]["9505"]["pageData"]["sessions"]
+    with pytest.raises(SchemaDriftError):
+        parse_observations(
+            _wrap(next_data),
+            venue_id="9505",
+            venue_label="BSR Mall",
+            expected_city_id="34",
+            run_id="run-1",
+            observed_at_utc="2026-07-27T12:00:00.000Z",
+        )
+
+
 def test_region_mismatch_wrong_venue_id():
     html = _wrap(_minimal_valid_next_data())
     with pytest.raises(RegionMismatchError):

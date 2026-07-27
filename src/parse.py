@@ -107,11 +107,20 @@ def parse_observations(
         )
     venue_name = cinema_meta.get("name", venue_label)
 
-    try:
-        movies_meta = state["meta"]["movies"]
-        sessions = state["pageData"]["sessions"]
-    except (KeyError, TypeError) as exc:
-        raise SchemaDriftError(f"missing movies/sessions data: {exc}") from exc
+    # When nothing is scheduled yet for the requested date (booking not open that far
+    # ahead), the source omits "movies" and "sessions" entirely rather than returning
+    # empty collections. That's a legitimate absence state, not malformed data -- treat
+    # it as zero observations. It's only schema drift if the two disagree (one present,
+    # one missing), which would mean the shape actually changed underneath us.
+    movies_meta = state.get("meta", {}).get("movies")
+    sessions = state.get("pageData", {}).get("sessions")
+    if movies_meta is None and sessions is None:
+        return []
+    if movies_meta is None or sessions is None:
+        raise SchemaDriftError(
+            f"inconsistent absence: movies={'present' if movies_meta is not None else 'missing'}, "
+            f"sessions={'present' if sessions is not None else 'missing'}"
+        )
 
     film_titles = {m["id"]: m.get("name", "") for m in movies_meta if "id" in m}
 
