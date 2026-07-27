@@ -1,0 +1,55 @@
+name: derive
+
+on:
+  schedule:
+    - cron: "5 2 * * *"  # daily, 02:05 UTC
+  workflow_dispatch: {}
+
+concurrency:
+  group: derive
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  derive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Rebuild events.jsonl
+        run: python -m src.derive
+
+      - name: Build summary report
+        run: python -m src.report
+
+      - name: Commit and push (rebase-retry, up to 3 attempts)
+        run: |
+          git config user.name "imax-watcher-bot"
+          git config user.email "actions@users.noreply.github.com"
+
+          if [ -z "$(git status --porcelain data/events.jsonl reports/)" ]; then
+            echo "no changes to commit"
+            exit 0
+          fi
+
+          git add data/events.jsonl reports/
+          git commit -m "derive: rebuild events.jsonl and reports/summary.md"
+
+          for attempt in 1 2 3; do
+            if git push; then
+              exit 0
+            fi
+            echo "push failed, attempt $attempt/3 -- pulling and rebasing"
+            git pull --rebase origin main
+          done
+          echo "push failed after 3 attempts" >&2
+          exit 1

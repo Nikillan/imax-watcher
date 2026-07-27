@@ -28,7 +28,7 @@ venues:
 polling:
   days_ahead: 10          # N: how many show-dates ahead to poll per venue per run
   inter_request_delay_seconds: 2.0
-  request_budget_per_run: 40
+  request_budget_per_run: 60   # 4 venues x (days_ahead + 1) dates = 44 at defaults, plus headroom
   retries:
     max_attempts: 3
     retry_on_status: [429, 500, 502, 503, 504]

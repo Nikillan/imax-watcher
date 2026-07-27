@@ -1,0 +1,100 @@
+name: poll
+
+on:
+  repository_dispatch:
+    types: [poll]
+  workflow_dispatch:
+    inputs:
+      venues:
+        description: "Comma-separated venue ids/labels (blank = all)"
+        required: false
+      days_ahead:
+        description: "Days ahead to poll (blank = config default)"
+        required: false
+  schedule:
+    # Dead-man's switch: guarantees a floor on data collection if the
+    # external cron-job.org trigger dies silently. See README for why this
+    # exists alongside the dispatch trigger rather than instead of it.
+    - cron: "17 */3 * * *"
+
+concurrency:
+  group: poll
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Determine trigger metadata
+        id: meta
+        run: |
+          if [ "${{ github.event_name }}" = "repository_dispatch" ]; then
+            echo "trigger=dispatch" >> "$GITHUB_OUTPUT"
+            echo "scheduled_for=${{ github.event.client_payload.scheduled_for }}" >> "$GITHUB_OUTPUT"
+          elif [ "${{ github.event_name }}" = "schedule" ]; then
+            echo "trigger=schedule" >> "$GITHUB_OUTPUT"
+            echo "scheduled_for=" >> "$GITHUB_OUTPUT"
+          else
+            echo "trigger=manual" >> "$GITHUB_OUTPUT"
+            echo "scheduled_for=" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Poll
+        run: |
+          ARGS="--trigger ${{ steps.meta.outputs.trigger }}"
+          if [ -n "${{ steps.meta.outputs.scheduled_for }}" ]; then
+            ARGS="$ARGS --scheduled-for ${{ steps.meta.outputs.scheduled_for }}"
+          fi
+          if [ -n "${{ github.event.inputs.venues }}" ]; then
+            ARGS="$ARGS --venues ${{ github.event.inputs.venues }}"
+          fi
+          if [ -n "${{ github.event.inputs.days_ahead }}" ]; then
+            ARGS="$ARGS --days-ahead ${{ github.event.inputs.days_ahead }}"
+          fi
+          python -m src.poll $ARGS
+
+      - name: Commit and push (rebase-retry, up to 3 attempts)
+        if: always()
+        run: |
+          git config user.name "imax-watcher-bot"
+          git config user.email "actions@users.noreply.github.com"
+
+          if [ -z "$(git status --porcelain data/)" ]; then
+            echo "no data changes to commit"
+            exit 0
+          fi
+
+          SUMMARY=$(python -c "
+import json
+rows = [json.loads(l) for l in open('data/runs.jsonl') if l.strip()]
+last_run_id = rows[-1]['run_id'] if rows else 'unknown'
+recent = [r for r in rows if r['run_id'] == last_run_id]
+ok = sum(1 for r in recent if r['status'] == 'ok')
+rows_written = sum(r['rows_written'] for r in recent)
+print(f'{last_run_id}: {ok}/{len(recent)} venues ok, {rows_written} rows')
+" 2>/dev/null || echo "unknown")
+
+          git add data/
+          git commit -m "poll: ${SUMMARY}"
+
+          for attempt in 1 2 3; do
+            if git push; then
+              exit 0
+            fi
+            echo "push failed, attempt $attempt/3 -- pulling and rebasing"
+            git pull --rebase origin main
+          done
+          echo "push failed after 3 attempts" >&2
+          exit 1
