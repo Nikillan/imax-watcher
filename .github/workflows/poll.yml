@@ -76,15 +76,7 @@ jobs:
             exit 0
           fi
 
-          SUMMARY=$(python -c "
-import json
-rows = [json.loads(l) for l in open('data/runs.jsonl') if l.strip()]
-last_run_id = rows[-1]['run_id'] if rows else 'unknown'
-recent = [r for r in rows if r['run_id'] == last_run_id]
-ok = sum(1 for r in recent if r['status'] == 'ok')
-rows_written = sum(r['rows_written'] for r in recent)
-print(f'{last_run_id}: {ok}/{len(recent)} venues ok, {rows_written} rows')
-" 2>/dev/null || echo "unknown")
+          SUMMARY=$(python -m src.ledger_summary 2>/dev/null || echo "unknown")
 
           git add data/
           git commit -m "poll: ${SUMMARY}"
