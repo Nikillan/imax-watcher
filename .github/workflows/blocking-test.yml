@@ -1,0 +1,19 @@
+name: blocking-test
+on: workflow_dispatch
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Probe district.in from GitHub-hosted runner IP
+        run: |
+          echo "Runner egress IP:"
+          curl -s https://ipinfo.io/ip || true
+          echo
+          echo "--- robots.txt ---"
+          curl -sS -m 20 -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36" -o /dev/null -w "HTTP_STATUS:%{http_code} TIME:%{time_total}s\n" https://www.district.in/robots.txt
+          echo "--- cinema listing page (BSR Mall, CD9505) ---"
+          curl -sS -m 20 -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36" -o /tmp/resp.html -w "HTTP_STATUS:%{http_code} TIME:%{time_total}s SIZE:%{size_download}\n" "https://www.district.in/movies/cinepolis-bsr-mall-omr-thoraipakkam-chennai-in-chennai-CD9505"
+          echo "--- sanity: does response contain expected city/venue markers? ---"
+          grep -o '"cityName":"[a-zA-Z]*"' /tmp/resp.html | head -1 || echo "cityName marker NOT FOUND"
+          grep -o '"cinemaId":"[0-9]*"' /tmp/resp.html | head -1 || echo "cinemaId marker NOT FOUND"
