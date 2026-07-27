@@ -1,0 +1,58 @@
+# Chennai theatre ticket-release data collector — configuration
+# See README.md for how to add a venue or change polling parameters.
+
+source:
+  base_url: "https://www.district.in"
+  city_slug: "chennai"
+  city_id: "34"          # district.in's numeric Chennai city code; asserted at runtime
+  user_agent: "imax-watcher/0.1 (data collection research bot; contact: nikil3010@gmail.com)"
+
+venues:
+  - id: "1020779"
+    name: "INOX Phoenix Market City"
+    label: "Phoenix Mall"        # friendly name from the brief
+    slug: "inox-phoenix-market-city-formerly-jazz-cinemas-velachery-chennai-in-chennai-CD1020779"
+  - id: "9505"
+    name: "Cinepolis BSR Mall OMR"
+    label: "BSR Mall"
+    slug: "cinepolis-bsr-mall-omr-thoraipakkam-chennai-in-chennai-CD9505"
+  - id: "1022274"
+    name: "PVR Palazzo, The Nexus Vijaya Mall"
+    label: "PVR Palazzo"
+    slug: "pvr-palazzo-the-nexus-vijaya-mall-chennai-in-chennai-CD1022274"
+  - id: "1022304"
+    name: "PVR VR Mall"
+    label: "VR Mall"
+    slug: "pvr-vr-mall-anna-nagar-chennai-in-chennai-CD1022304"
+
+polling:
+  days_ahead: 10          # N: how many show-dates ahead to poll per venue per run
+  inter_request_delay_seconds: 2.0
+  request_budget_per_run: 40
+  retries:
+    max_attempts: 3
+    retry_on_status: [429, 500, 502, 503, 504]
+  hard_timeout_seconds: 480   # per-run wall clock cap (8 min)
+
+watchlist:
+  # Films to track for Tier 2 seat-level polling and first_seen_bookable notifications.
+  # Populated from district.in's "upcoming movies in chennai" listing; empty until Tier 2 ships.
+  films: []
+
+hot_windows:
+  # Time windows (IST) in which Tier 2 collection is permitted, e.g. around expected releases.
+  # ponytail: Tier 2 deferred to v2, so this is unused for now — kept here since Tier 1's
+  # policy-check logic (poll.py) still needs to read *something* and log the policy state.
+  windows: []
+
+tiers:
+  tier2_enabled: false    # seat-level per-session polling; deferred to v2 per project decision
+
+raw_retention_days: 90
+
+notify:
+  enabled: false
+  telegram:
+    bot_token_env: "TELEGRAM_BOT_TOKEN"
+    chat_id_env: "TELEGRAM_CHAT_ID"
+  mode: "event"            # "event" (first_seen_bookable only) or "digest" (daily summary)
