@@ -191,13 +191,19 @@ searching `district.in/movies/cinemas-in-<city>` for the venue). No code change 
 
 ## Notifications
 
-Off by default (`notify.enabled: false`). When enabled, sends a Telegram message only on
-`first_seen_bookable` events for watchlist films (never every observation), via
-`TELEGRAM_BOT_TOKEN` / `TELEGRAM_CHAT_ID` repo secrets. No-ops gracefully if those secrets
-are absent; a notification failure never fails the polling run.
+Off by default (`notify.enabled: false`). When enabled, sends Telegram and/or Pushover
+messages only on `first_seen_bookable` events for watchlist films (never every observation).
+Each channel no-ops gracefully if its secrets are absent; a notification failure never fails
+the polling run.
+
+Pushover defaults to `priority: 2` (emergency) — it bypasses phone silent/DND and repeats
+every `retry` seconds until acknowledged or `expire` seconds elapse, for alerts that need to
+wake you up. Set `priority: 0` in `notify.pushover` for a normal, non-repeating push.
 
 ## Secrets required in the repo
 
 - `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID` — optional, only if `notify.enabled: true`.
+- `PUSHOVER_TOKEN`, `PUSHOVER_USER_KEY` — optional, only if `notify.enabled: true` and
+  Pushover is wanted. Get these from your Pushover app + a registered Application/API token.
 - The GitHub PAT lives in cron-job.org, **not** as a repo secret (the repo doesn't need to
   authenticate to itself).

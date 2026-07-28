@@ -55,4 +55,10 @@ notify:
   telegram:
     bot_token_env: "TELEGRAM_BOT_TOKEN"
     chat_id_env: "TELEGRAM_CHAT_ID"
+  pushover:
+    token_env: "PUSHOVER_TOKEN"
+    user_key_env: "PUSHOVER_USER_KEY"
+    priority: 2             # 2 = emergency: bypasses DND, repeats until acknowledged
+    retry: 60                # seconds between repeats (min 30)
+    expire: 3600              # give up after this many seconds
   mode: "event"            # "event" (first_seen_bookable only) or "digest" (daily summary)

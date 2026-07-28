@@ -1,4 +1,4 @@
-"""Telegram notifications. Off by default (config.notify.enabled: false).
+"""Telegram/Pushover notifications. Off by default (config.notify.enabled: false).
 
 Never raises -- a notification failure must never fail the data-collection run.
 Secrets come from environment variables (repo secrets in CI); if they're absent
@@ -36,6 +36,42 @@ def send_telegram_message(text: str, *, bot_token_env: str, chat_id_env: str) ->
         return False
 
 
+def send_pushover_message(
+    text: str,
+    *,
+    token_env: str,
+    user_key_env: str,
+    priority: int = 2,
+    retry: int = 60,
+    expire: int = 3600,
+) -> bool:
+    token = os.environ.get(token_env)
+    user_key = os.environ.get(user_key_env)
+    if not token or not user_key:
+        logger.info("pushover secrets not set (%s / %s), skipping notification", token_env, user_key_env)
+        return False
+
+    payload = {
+        "token": token,
+        "user": user_key,
+        "message": text,
+        "title": "Booking opened",
+        "priority": priority,
+    }
+    if priority == 2:
+        # emergency priority requires retry/expire and repeats until acknowledged
+        payload["retry"] = retry
+        payload["expire"] = expire
+
+    try:
+        resp = httpx.post("https://api.pushover.net/1/messages.json", data=payload, timeout=10.0)
+        resp.raise_for_status()
+        return True
+    except httpx.HTTPError as exc:
+        logger.warning("pushover notification failed: %s", exc)
+        return False
+
+
 def format_first_seen_bookable(event: DerivedEvent, *, venue_name: str, film_title: str) -> str:
     window = (
         f"{event.uncertainty_seconds // 60} min"
@@ -65,6 +101,7 @@ def notify_first_seen_bookable(
         return
 
     telegram_cfg = notify_cfg.get("telegram", {})
+    pushover_cfg = notify_cfg.get("pushover", {})
     for event in events:
         if event.event_type != "first_seen_bookable":
             continue
@@ -79,4 +116,12 @@ def notify_first_seen_bookable(
             text,
             bot_token_env=telegram_cfg.get("bot_token_env", "TELEGRAM_BOT_TOKEN"),
             chat_id_env=telegram_cfg.get("chat_id_env", "TELEGRAM_CHAT_ID"),
+        )
+        send_pushover_message(
+            text,
+            token_env=pushover_cfg.get("token_env", "PUSHOVER_TOKEN"),
+            user_key_env=pushover_cfg.get("user_key_env", "PUSHOVER_USER_KEY"),
+            priority=pushover_cfg.get("priority", 2),
+            retry=pushover_cfg.get("retry", 60),
+            expire=pushover_cfg.get("expire", 3600),
         )
