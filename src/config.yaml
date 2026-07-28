@@ -51,7 +51,7 @@ tiers:
 raw_retention_days: 90
 
 notify:
-  enabled: false
+  enabled: true
   telegram:
     bot_token_env: "TELEGRAM_BOT_TOKEN"
     chat_id_env: "TELEGRAM_CHAT_ID"
