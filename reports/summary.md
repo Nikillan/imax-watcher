@@ -1,6 +1,6 @@
 # Coverage & Findings Summary
 
-_Generated 2026-07-31 05:44 UTC_
+_Generated 2026-08-01 05:35 UTC_
 
 ## Release events (last 7 days)
 
@@ -551,6 +551,8 @@ _Generated 2026-07-31 05:44 UTC_
 - Chennai Love Story — show 2026-08-01, first seen 2026-07-30T18:16:58.492Z, uncertainty ±14m
 - Spider-Man: Brand New Day — show 2026-08-02, first seen 2026-07-30T18:17:01.052Z, uncertainty ±14m
 - Chennai Love Story — show 2026-08-02, first seen 2026-07-30T18:17:01.052Z, uncertainty ±14m
+- Spider-Man: Brand New Day — show 2026-08-01, first seen 2026-07-31T06:16:59.136Z, uncertainty ±14m
+- Spider-Man: Brand New Day — show 2026-08-02, first seen 2026-07-31T10:02:43.379Z, uncertainty ±15m
 
 ### PVR VR Mall, Anna Nagar, Chennai
 - Welcome To The Jungle — show 2026-07-27, first seen 2026-07-27T16:11:22.180Z, uncertainty ±unknown
@@ -897,6 +899,36 @@ _Generated 2026-07-31 05:44 UTC_
 - Gatta Kusthi 2 — show 2026-08-05, first seen 2026-07-30T16:49:00.258Z, uncertainty ±15m
 - Anbe Diana — show 2026-08-05, first seen 2026-07-30T16:49:00.258Z, uncertainty ±15m
 - Pluto — show 2026-08-05, first seen 2026-07-30T16:49:00.258Z, uncertainty ±15m
+- Vinnaithaandi Varuvaayaa — show 2026-08-03, first seen 2026-07-31T14:47:32.713Z, uncertainty ±14m
+- Unmadham — show 2026-08-03, first seen 2026-07-31T14:47:32.713Z, uncertainty ±14m
+- Idhayam Murali — show 2026-08-03, first seen 2026-07-31T14:47:32.713Z, uncertainty ±14m
+- Bhai Tera Star Hai — show 2026-08-03, first seen 2026-07-31T14:47:32.713Z, uncertainty ±14m
+- Vinnaithaandi Varuvaayaa — show 2026-08-04, first seen 2026-07-31T15:03:03.999Z, uncertainty ±15m
+- Unmadham — show 2026-08-04, first seen 2026-07-31T15:03:03.999Z, uncertainty ±15m
+- Idhayam Murali — show 2026-08-04, first seen 2026-07-31T15:03:03.999Z, uncertainty ±15m
+- Bhai Tera Star Hai — show 2026-08-04, first seen 2026-07-31T15:03:03.999Z, uncertainty ±15m
+- Vinnaithaandi Varuvaayaa — show 2026-08-05, first seen 2026-07-31T15:03:06.412Z, uncertainty ±15m
+- Unmadham — show 2026-08-05, first seen 2026-07-31T15:03:06.412Z, uncertainty ±15m
+- Idhayam Murali — show 2026-08-05, first seen 2026-07-31T15:03:06.412Z, uncertainty ±15m
+- Bhai Tera Star Hai — show 2026-08-05, first seen 2026-07-31T15:03:06.412Z, uncertainty ±15m
+- The Odyssey — show 2026-08-04, first seen 2026-07-31T16:47:45.142Z, uncertainty ±14m
+- The Odyssey — show 2026-08-04, first seen 2026-07-31T16:47:45.142Z, uncertainty ±14m
+- Chennai Love Story — show 2026-08-04, first seen 2026-07-31T16:47:45.142Z, uncertainty ±14m
+- Chennai Love Story — show 2026-08-04, first seen 2026-07-31T16:47:45.142Z, uncertainty ±14m
+- The Odyssey — show 2026-08-05, first seen 2026-07-31T16:47:47.813Z, uncertainty ±14m
+- The Odyssey — show 2026-08-05, first seen 2026-07-31T16:47:47.813Z, uncertainty ±14m
+- Chennai Love Story — show 2026-08-05, first seen 2026-07-31T16:47:47.813Z, uncertainty ±14m
+- Chennai Love Story — show 2026-08-05, first seen 2026-07-31T16:47:47.813Z, uncertainty ±14m
+- Spider-Man: Brand New Day — show 2026-08-04, first seen 2026-07-31T17:18:12.654Z, uncertainty ±13m
+- Dhamaal 4 — show 2026-08-04, first seen 2026-07-31T17:18:12.654Z, uncertainty ±13m
+- Evil Dead Burn — show 2026-08-04, first seen 2026-07-31T17:18:12.654Z, uncertainty ±13m
+- Spider-Man: Brand New Day — show 2026-08-04, first seen 2026-07-31T17:18:12.654Z, uncertainty ±13m
+- Srinivasa Mangapuram — show 2026-08-04, first seen 2026-07-31T17:18:12.654Z, uncertainty ±13m
+- Spider-Man: Brand New Day — show 2026-08-05, first seen 2026-07-31T17:18:15.024Z, uncertainty ±13m
+- Dhamaal 4 — show 2026-08-05, first seen 2026-07-31T17:18:15.024Z, uncertainty ±13m
+- Evil Dead Burn — show 2026-08-05, first seen 2026-07-31T17:18:15.024Z, uncertainty ±13m
+- Spider-Man: Brand New Day — show 2026-08-05, first seen 2026-07-31T17:18:15.024Z, uncertainty ±13m
+- Srinivasa Mangapuram — show 2026-08-05, first seen 2026-07-31T17:18:15.024Z, uncertainty ±13m
 
 ### Cinepolis BSR Mall OMR, Thoraipakkam, Chennai
 - Jana Nayagan — show 2026-07-27, first seen 2026-07-27T16:11:07.539Z, uncertainty ±unknown
@@ -1183,17 +1215,20 @@ _Generated 2026-07-31 05:44 UTC_
 - Pluto — show 2026-08-02, first seen 2026-07-30T08:46:22.488Z, uncertainty ±14m
 - Chennai Love Story — show 2026-08-02, first seen 2026-07-30T08:46:22.488Z, uncertainty ±14m
 - Srinivasa Mangapuram — show 2026-08-02, first seen 2026-07-30T08:46:22.488Z, uncertainty ±14m
+- Spider-Man: Brand New Day — show 2026-07-31, first seen 2026-07-31T10:16:28.827Z, uncertainty ±13m
+- Spider-Man: Brand New Day — show 2026-08-01, first seen 2026-07-31T11:16:34.159Z, uncertainty ±14m
+- Spider-Man: Brand New Day — show 2026-08-02, first seen 2026-07-31T11:16:36.700Z, uncertainty ±14m
 
 ## Coverage
-- Polls attempted: 1432, succeeded: 1424 (99.4%)
-- Longest gap between successful polls: 0:23:29.847000 (PVR VR Mall, Anna Nagar, Chennai)
+- Polls attempted: 1824, succeeded: 1816 (99.6%)
+- Longest gap between successful polls: 0:29:53.195000 (INOX Phoenix Market City (formerly Jazz Cinemas), Velachery, Chennai)
 - Hot-window / Tier 2 polls run: n/a (Tier 2 deferred, `tiers.tier2_enabled: false`)
 
 ## Lead time (booking-open → show date), per venue
 - INOX Phoenix Market City (formerly Jazz Cinemas), Velachery, Chennai: n=270, min=-1d, median=1d, max=3d
-- PVR Palazzo, The Nexus Vijaya Mall, Chennai: n=274, min=-1d, median=1d, max=4d
-- PVR VR Mall, Anna Nagar, Chennai: n=344, min=-1d, median=2d, max=5d
-- Cinepolis BSR Mall OMR, Thoraipakkam, Chennai: n=284, min=-1d, median=1d, max=7d
+- PVR Palazzo, The Nexus Vijaya Mall, Chennai: n=276, min=-1d, median=1d, max=4d
+- PVR VR Mall, Anna Nagar, Chennai: n=374, min=-1d, median=2d, max=5d
+- Cinepolis BSR Mall OMR, Thoraipakkam, Chennai: n=287, min=-1d, median=1d, max=7d
 
 ## Films seen at one venue but not others
 - Welcome To The Jungle: seen at PVR VR Mall, Anna Nagar, Chennai
