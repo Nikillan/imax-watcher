@@ -1,128 +1,10 @@
 # Coverage & Findings Summary
 
-_Generated 2026-08-15 03:02 UTC_
+_Generated 2026-08-16 03:12 UTC_
 
 ## Release events (last 7 days)
 
 ### INOX Phoenix Market City (formerly Jazz Cinemas), Velachery, Chennai
-- Chao — show 2026-08-09, first seen 2026-08-08T10:46:43.935Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-10, first seen 2026-08-08T17:16:43.016Z, uncertainty ±14m
-- DC — show 2026-08-10, first seen 2026-08-08T17:16:43.016Z, uncertainty ±14m
-- The Odyssey — show 2026-08-10, first seen 2026-08-08T17:46:44.709Z, uncertainty ±14m
-- The Odyssey — show 2026-08-10, first seen 2026-08-08T17:46:44.709Z, uncertainty ±14m
-- The Odyssey — show 2026-08-10, first seen 2026-08-08T17:46:44.709Z, uncertainty ±14m
-- The Odyssey — show 2026-08-10, first seen 2026-08-08T17:46:44.709Z, uncertainty ±14m
-- The Odyssey — show 2026-08-10, first seen 2026-08-08T17:46:44.709Z, uncertainty ±14m
-- The Odyssey — show 2026-08-11, first seen 2026-08-08T17:46:47.240Z, uncertainty ±14m
-- The Odyssey — show 2026-08-11, first seen 2026-08-08T17:46:47.240Z, uncertainty ±14m
-- The Odyssey — show 2026-08-11, first seen 2026-08-08T17:46:47.240Z, uncertainty ±14m
-- The Odyssey — show 2026-08-11, first seen 2026-08-08T17:46:47.240Z, uncertainty ±14m
-- The Odyssey — show 2026-08-11, first seen 2026-08-08T17:46:47.240Z, uncertainty ±14m
-- The Odyssey — show 2026-08-12, first seen 2026-08-08T17:46:49.869Z, uncertainty ±14m
-- The Odyssey — show 2026-08-12, first seen 2026-08-08T17:46:49.869Z, uncertainty ±14m
-- The Odyssey — show 2026-08-12, first seen 2026-08-08T17:46:49.869Z, uncertainty ±14m
-- The Odyssey — show 2026-08-12, first seen 2026-08-08T17:46:49.869Z, uncertainty ±14m
-- The Odyssey — show 2026-08-12, first seen 2026-08-08T17:46:49.869Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-10, first seen 2026-08-08T19:16:46.370Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-10, first seen 2026-08-08T19:16:46.370Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-10, first seen 2026-08-08T19:16:46.370Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-10, first seen 2026-08-08T19:16:46.370Z, uncertainty ±14m
-- DC — show 2026-08-10, first seen 2026-08-08T19:16:46.370Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-11, first seen 2026-08-08T19:16:48.787Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-11, first seen 2026-08-08T19:16:48.787Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-11, first seen 2026-08-08T19:16:48.787Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-11, first seen 2026-08-08T19:16:48.787Z, uncertainty ±14m
-- DC — show 2026-08-11, first seen 2026-08-08T19:16:48.787Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-12, first seen 2026-08-08T19:32:09.649Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-12, first seen 2026-08-08T19:32:09.649Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-12, first seen 2026-08-08T19:32:09.649Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-12, first seen 2026-08-08T19:32:09.649Z, uncertainty ±15m
-- DC — show 2026-08-12, first seen 2026-08-08T19:32:09.649Z, uncertainty ±15m
-- Jana Nayagan — show 2026-08-10, first seen 2026-08-08T19:46:42.257Z, uncertainty ±14m
-- Jana Nayagan — show 2026-08-10, first seen 2026-08-08T19:46:42.257Z, uncertainty ±14m
-- Gatta Kusthi 2 — show 2026-08-10, first seen 2026-08-08T19:46:42.257Z, uncertainty ±14m
-- Ohh My Dog — show 2026-08-10, first seen 2026-08-08T19:46:42.257Z, uncertainty ±14m
-- Korean Kanakaraju — show 2026-08-10, first seen 2026-08-08T19:46:42.257Z, uncertainty ±14m
-- Korean Kanakaraju — show 2026-08-10, first seen 2026-08-08T19:46:42.257Z, uncertainty ±14m
-- DC — show 2026-08-10, first seen 2026-08-08T19:46:42.257Z, uncertainty ±14m
-- DC — show 2026-08-10, first seen 2026-08-08T19:46:42.257Z, uncertainty ±14m
-- DC — show 2026-08-10, first seen 2026-08-08T19:46:42.257Z, uncertainty ±14m
-- Jana Nayagan — show 2026-08-11, first seen 2026-08-08T19:46:44.712Z, uncertainty ±14m
-- Jana Nayagan — show 2026-08-11, first seen 2026-08-08T19:46:44.712Z, uncertainty ±14m
-- DC — show 2026-08-11, first seen 2026-08-08T19:46:44.712Z, uncertainty ±14m
-- DC — show 2026-08-11, first seen 2026-08-08T19:46:44.712Z, uncertainty ±14m
-- DC — show 2026-08-11, first seen 2026-08-08T19:46:44.712Z, uncertainty ±14m
-- Jana Nayagan — show 2026-08-12, first seen 2026-08-08T19:46:47.118Z, uncertainty ±14m
-- Jana Nayagan — show 2026-08-12, first seen 2026-08-08T19:46:47.118Z, uncertainty ±14m
-- DC — show 2026-08-12, first seen 2026-08-08T19:46:47.118Z, uncertainty ±14m
-- DC — show 2026-08-12, first seen 2026-08-08T19:46:47.118Z, uncertainty ±14m
-- DC — show 2026-08-12, first seen 2026-08-08T19:46:47.118Z, uncertainty ±14m
-- The Odyssey — show 2026-08-10, first seen 2026-08-08T20:02:14.769Z, uncertainty ±15m
-- Idhayam Murali — show 2026-08-10, first seen 2026-08-08T20:02:14.769Z, uncertainty ±15m
-- Anbe Diana — show 2026-08-10, first seen 2026-08-08T20:02:14.769Z, uncertainty ±15m
-- Photographer — show 2026-08-10, first seen 2026-08-08T20:02:14.769Z, uncertainty ±15m
-- DC — show 2026-08-10, first seen 2026-08-08T20:02:14.769Z, uncertainty ±15m
-- DC — show 2026-08-10, first seen 2026-08-08T20:02:14.769Z, uncertainty ±15m
-- DC — show 2026-08-10, first seen 2026-08-08T20:02:14.769Z, uncertainty ±15m
-- Gatta Kusthi 2 — show 2026-08-11, first seen 2026-08-08T20:02:17.198Z, uncertainty ±15m
-- Ohh My Dog — show 2026-08-11, first seen 2026-08-08T20:02:17.198Z, uncertainty ±15m
-- Korean Kanakaraju — show 2026-08-11, first seen 2026-08-08T20:02:17.198Z, uncertainty ±15m
-- Korean Kanakaraju — show 2026-08-11, first seen 2026-08-08T20:02:17.198Z, uncertainty ±15m
-- Gatta Kusthi 2 — show 2026-08-12, first seen 2026-08-08T20:02:19.571Z, uncertainty ±15m
-- Ohh My Dog — show 2026-08-12, first seen 2026-08-08T20:02:19.571Z, uncertainty ±15m
-- Korean Kanakaraju — show 2026-08-12, first seen 2026-08-08T20:02:19.571Z, uncertainty ±15m
-- Korean Kanakaraju — show 2026-08-12, first seen 2026-08-08T20:02:19.571Z, uncertainty ±15m
-- Dookudu — show 2026-08-10, first seen 2026-08-08T20:17:21.206Z, uncertainty ±14m
-- Thudakkam — show 2026-08-10, first seen 2026-08-08T20:17:21.206Z, uncertainty ±14m
-- G.D.N — show 2026-08-10, first seen 2026-08-08T20:17:21.206Z, uncertainty ±14m
-- G.D.N — show 2026-08-10, first seen 2026-08-08T20:17:21.206Z, uncertainty ±14m
-- G.D.N — show 2026-08-10, first seen 2026-08-08T20:17:21.206Z, uncertainty ±14m
-- DC — show 2026-08-10, first seen 2026-08-08T20:17:21.206Z, uncertainty ±14m
-- Dookudu — show 2026-08-11, first seen 2026-08-08T20:17:23.682Z, uncertainty ±14m
-- Thudakkam — show 2026-08-11, first seen 2026-08-08T20:17:23.682Z, uncertainty ±14m
-- The Odyssey — show 2026-08-11, first seen 2026-08-08T20:17:23.682Z, uncertainty ±14m
-- G.D.N — show 2026-08-11, first seen 2026-08-08T20:17:23.682Z, uncertainty ±14m
-- G.D.N — show 2026-08-11, first seen 2026-08-08T20:17:23.682Z, uncertainty ±14m
-- G.D.N — show 2026-08-11, first seen 2026-08-08T20:17:23.682Z, uncertainty ±14m
-- Idhayam Murali — show 2026-08-11, first seen 2026-08-08T20:17:23.682Z, uncertainty ±14m
-- Anbe Diana — show 2026-08-11, first seen 2026-08-08T20:17:23.682Z, uncertainty ±14m
-- Photographer — show 2026-08-11, first seen 2026-08-08T20:17:23.682Z, uncertainty ±14m
-- DC — show 2026-08-11, first seen 2026-08-08T20:17:23.682Z, uncertainty ±14m
-- Dookudu — show 2026-08-12, first seen 2026-08-08T20:17:26.120Z, uncertainty ±14m
-- Thudakkam — show 2026-08-12, first seen 2026-08-08T20:17:26.120Z, uncertainty ±14m
-- The Odyssey — show 2026-08-12, first seen 2026-08-08T20:17:26.120Z, uncertainty ±14m
-- G.D.N — show 2026-08-12, first seen 2026-08-08T20:17:26.120Z, uncertainty ±14m
-- G.D.N — show 2026-08-12, first seen 2026-08-08T20:17:26.120Z, uncertainty ±14m
-- G.D.N — show 2026-08-12, first seen 2026-08-08T20:17:26.120Z, uncertainty ±14m
-- Idhayam Murali — show 2026-08-12, first seen 2026-08-08T20:17:26.120Z, uncertainty ±14m
-- Anbe Diana — show 2026-08-12, first seen 2026-08-08T20:17:26.120Z, uncertainty ±14m
-- Photographer — show 2026-08-12, first seen 2026-08-08T20:17:26.120Z, uncertainty ±14m
-- DC — show 2026-08-12, first seen 2026-08-08T20:17:26.120Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-10, first seen 2026-08-08T20:32:02.594Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-10, first seen 2026-08-08T20:32:02.594Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-10, first seen 2026-08-08T20:32:02.594Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-10, first seen 2026-08-08T20:32:02.594Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-11, first seen 2026-08-08T20:32:05.080Z, uncertainty ±14m
-- G.D.N — show 2026-08-11, first seen 2026-08-08T20:32:05.080Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-11, first seen 2026-08-08T20:32:05.080Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-11, first seen 2026-08-08T20:32:05.080Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-11, first seen 2026-08-08T20:32:05.080Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-11, first seen 2026-08-08T20:32:05.080Z, uncertainty ±14m
-- DC — show 2026-08-11, first seen 2026-08-08T20:32:05.080Z, uncertainty ±14m
-- DC — show 2026-08-11, first seen 2026-08-08T20:32:05.080Z, uncertainty ±14m
-- DC — show 2026-08-11, first seen 2026-08-08T20:32:05.080Z, uncertainty ±14m
-- DC — show 2026-08-11, first seen 2026-08-08T20:32:05.080Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-12, first seen 2026-08-08T20:32:07.599Z, uncertainty ±14m
-- G.D.N — show 2026-08-12, first seen 2026-08-08T20:32:07.599Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-12, first seen 2026-08-08T20:32:07.599Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-12, first seen 2026-08-08T20:32:07.599Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-12, first seen 2026-08-08T20:32:07.599Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-12, first seen 2026-08-08T20:32:07.599Z, uncertainty ±14m
-- DC — show 2026-08-12, first seen 2026-08-08T20:32:07.599Z, uncertainty ±14m
-- DC — show 2026-08-12, first seen 2026-08-08T20:32:07.599Z, uncertainty ±14m
-- DC — show 2026-08-12, first seen 2026-08-08T20:32:07.599Z, uncertainty ±14m
-- DC — show 2026-08-12, first seen 2026-08-08T20:32:07.599Z, uncertainty ±14m
-- G.D.N — show 2026-08-10, first seen 2026-08-08T20:46:44.514Z, uncertainty ±14m
 - Jana Nayagan — show 2026-08-10, first seen 2026-08-09T11:32:13.502Z, uncertainty ±14m
 - Jana Nayagan — show 2026-08-10, first seen 2026-08-09T11:32:13.502Z, uncertainty ±14m
 - Spider-Man: Brand New Day — show 2026-08-10, first seen 2026-08-09T11:32:13.502Z, uncertainty ±14m
@@ -422,143 +304,41 @@ _Generated 2026-08-15 03:02 UTC_
 - The End of Oak Street — show 2026-08-19, first seen 2026-08-14T20:32:54.086Z, uncertainty ±15m
 - G.D.N — show 2026-08-19, first seen 2026-08-14T20:32:54.086Z, uncertainty ±15m
 - G.D.N — show 2026-08-19, first seen 2026-08-14T20:32:54.086Z, uncertainty ±15m
+- Vishwanath and Sons — show 2026-08-17, first seen 2026-08-15T05:47:23.505Z, uncertainty ±14m
+- Vishwanath and Sons — show 2026-08-17, first seen 2026-08-15T08:17:29.566Z, uncertainty ±14m
+- Vishwanath and Sons — show 2026-08-17, first seen 2026-08-15T08:17:29.566Z, uncertainty ±14m
+- The End of Oak Street — show 2026-08-18, first seen 2026-08-15T16:32:55.623Z, uncertainty ±14m
+- Vishwanath and Sons — show 2026-08-18, first seen 2026-08-15T16:32:55.623Z, uncertainty ±14m
+- The Odyssey — show 2026-08-18, first seen 2026-08-15T16:32:55.623Z, uncertainty ±14m
+- Batwara 1947 — show 2026-08-18, first seen 2026-08-15T16:32:55.623Z, uncertainty ±14m
+- Photographer — show 2026-08-18, first seen 2026-08-15T16:32:55.623Z, uncertainty ±14m
+- The End of Oak Street — show 2026-08-19, first seen 2026-08-15T16:32:58.110Z, uncertainty ±14m
+- Vishwanath and Sons — show 2026-08-19, first seen 2026-08-15T16:32:58.110Z, uncertainty ±14m
+- The Odyssey — show 2026-08-19, first seen 2026-08-15T16:32:58.110Z, uncertainty ±14m
+- Batwara 1947 — show 2026-08-19, first seen 2026-08-15T16:32:58.110Z, uncertainty ±14m
+- Photographer — show 2026-08-19, first seen 2026-08-15T16:32:58.110Z, uncertainty ±14m
+- Awarapan 2 — show 2026-08-17, first seen 2026-08-15T19:47:38.041Z, uncertainty ±14m
+- Awarapan 2 — show 2026-08-17, first seen 2026-08-15T19:47:38.041Z, uncertainty ±14m
+- Batwara 1947 — show 2026-08-17, first seen 2026-08-15T19:47:38.041Z, uncertainty ±14m
+- Batwara 1947 — show 2026-08-17, first seen 2026-08-15T19:47:38.041Z, uncertainty ±14m
+- Awarapan 2 — show 2026-08-18, first seen 2026-08-15T19:47:40.419Z, uncertainty ±14m
+- Awarapan 2 — show 2026-08-18, first seen 2026-08-15T19:47:40.419Z, uncertainty ±14m
+- Vishwanath and Sons — show 2026-08-18, first seen 2026-08-15T19:47:40.419Z, uncertainty ±14m
+- Vishwanath and Sons — show 2026-08-18, first seen 2026-08-15T19:47:40.419Z, uncertainty ±14m
+- Batwara 1947 — show 2026-08-18, first seen 2026-08-15T19:47:40.419Z, uncertainty ±14m
+- Batwara 1947 — show 2026-08-18, first seen 2026-08-15T19:47:40.419Z, uncertainty ±14m
+- Magudam — show 2026-08-18, first seen 2026-08-15T19:47:40.419Z, uncertainty ±14m
+- Magudam — show 2026-08-18, first seen 2026-08-15T19:47:40.419Z, uncertainty ±14m
+- Awarapan 2 — show 2026-08-19, first seen 2026-08-15T19:47:42.816Z, uncertainty ±14m
+- Awarapan 2 — show 2026-08-19, first seen 2026-08-15T19:47:42.816Z, uncertainty ±14m
+- Vishwanath and Sons — show 2026-08-19, first seen 2026-08-15T19:47:42.816Z, uncertainty ±14m
+- Vishwanath and Sons — show 2026-08-19, first seen 2026-08-15T19:47:42.816Z, uncertainty ±14m
+- Batwara 1947 — show 2026-08-19, first seen 2026-08-15T19:47:42.816Z, uncertainty ±14m
+- Batwara 1947 — show 2026-08-19, first seen 2026-08-15T19:47:42.816Z, uncertainty ±14m
+- Magudam — show 2026-08-19, first seen 2026-08-15T19:47:42.816Z, uncertainty ±14m
+- Magudam — show 2026-08-19, first seen 2026-08-15T19:47:42.816Z, uncertainty ±14m
 
 ### PVR Palazzo, The Nexus Vijaya Mall, Chennai
-- The Odyssey — show 2026-08-10, first seen 2026-08-08T04:32:41.865Z, uncertainty ±11m
-- The Odyssey — show 2026-08-10, first seen 2026-08-08T04:32:41.865Z, uncertainty ±11m
-- The Odyssey — show 2026-08-10, first seen 2026-08-08T04:32:41.865Z, uncertainty ±11m
-- The Odyssey — show 2026-08-10, first seen 2026-08-08T04:32:41.865Z, uncertainty ±11m
-- The Odyssey — show 2026-08-10, first seen 2026-08-08T04:32:41.865Z, uncertainty ±11m
-- The Odyssey — show 2026-08-11, first seen 2026-08-08T04:32:44.229Z, uncertainty ±11m
-- The Odyssey — show 2026-08-11, first seen 2026-08-08T04:32:44.229Z, uncertainty ±11m
-- The Odyssey — show 2026-08-11, first seen 2026-08-08T04:32:44.229Z, uncertainty ±11m
-- The Odyssey — show 2026-08-11, first seen 2026-08-08T04:32:44.229Z, uncertainty ±11m
-- The Odyssey — show 2026-08-11, first seen 2026-08-08T04:32:44.229Z, uncertainty ±11m
-- The Odyssey — show 2026-08-12, first seen 2026-08-08T04:32:46.610Z, uncertainty ±11m
-- The Odyssey — show 2026-08-12, first seen 2026-08-08T04:32:46.610Z, uncertainty ±11m
-- The Odyssey — show 2026-08-12, first seen 2026-08-08T04:32:46.610Z, uncertainty ±11m
-- The Odyssey — show 2026-08-12, first seen 2026-08-08T04:32:46.610Z, uncertainty ±11m
-- The Odyssey — show 2026-08-12, first seen 2026-08-08T04:32:46.610Z, uncertainty ±11m
-- The Odyssey — show 2026-08-13, first seen 2026-08-08T06:33:05.027Z, uncertainty ±15m
-- The Odyssey — show 2026-08-13, first seen 2026-08-08T06:33:05.027Z, uncertainty ±15m
-- The Odyssey — show 2026-08-13, first seen 2026-08-08T06:33:05.027Z, uncertainty ±15m
-- The Odyssey — show 2026-08-13, first seen 2026-08-08T06:33:05.027Z, uncertainty ±15m
-- The Odyssey — show 2026-08-13, first seen 2026-08-08T06:33:05.027Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-11, first seen 2026-08-08T08:32:42.450Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-11, first seen 2026-08-08T08:32:42.450Z, uncertainty ±14m
-- G.D.N — show 2026-08-11, first seen 2026-08-08T08:32:42.450Z, uncertainty ±14m
-- G.D.N — show 2026-08-11, first seen 2026-08-08T08:32:42.450Z, uncertainty ±14m
-- G.D.N — show 2026-08-11, first seen 2026-08-08T08:32:42.450Z, uncertainty ±14m
-- DC — show 2026-08-11, first seen 2026-08-08T08:32:42.450Z, uncertainty ±14m
-- DC — show 2026-08-11, first seen 2026-08-08T08:32:42.450Z, uncertainty ±14m
-- DC — show 2026-08-11, first seen 2026-08-08T08:32:42.450Z, uncertainty ±14m
-- DC — show 2026-08-11, first seen 2026-08-08T08:32:42.450Z, uncertainty ±14m
-- DC — show 2026-08-11, first seen 2026-08-08T08:32:42.450Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-11, first seen 2026-08-08T09:02:55.758Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-11, first seen 2026-08-08T09:02:55.758Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-11, first seen 2026-08-08T09:02:55.758Z, uncertainty ±15m
-- Thudakkam — show 2026-08-11, first seen 2026-08-08T09:02:55.758Z, uncertainty ±15m
-- The Odyssey — show 2026-08-11, first seen 2026-08-08T09:02:55.758Z, uncertainty ±15m
-- G.D.N — show 2026-08-11, first seen 2026-08-08T09:02:55.758Z, uncertainty ±15m
-- Gatta Kusthi 2 — show 2026-08-11, first seen 2026-08-08T09:02:55.758Z, uncertainty ±15m
-- Idhayam Murali — show 2026-08-11, first seen 2026-08-08T09:02:55.758Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-11, first seen 2026-08-08T09:02:55.758Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-11, first seen 2026-08-08T09:02:55.758Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-11, first seen 2026-08-08T09:02:55.758Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-11, first seen 2026-08-08T09:02:55.758Z, uncertainty ±15m
-- Anbe Diana — show 2026-08-11, first seen 2026-08-08T09:02:55.758Z, uncertainty ±15m
-- Photographer — show 2026-08-11, first seen 2026-08-08T09:02:55.758Z, uncertainty ±15m
-- Korean Kanakaraju — show 2026-08-11, first seen 2026-08-08T09:02:55.758Z, uncertainty ±15m
-- Korean Kanakaraju — show 2026-08-11, first seen 2026-08-08T09:02:55.758Z, uncertainty ±15m
-- DC — show 2026-08-11, first seen 2026-08-08T09:02:55.758Z, uncertainty ±15m
-- DC — show 2026-08-11, first seen 2026-08-08T09:02:55.758Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-11, first seen 2026-08-08T09:17:53.236Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-11, first seen 2026-08-08T09:17:53.236Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-11, first seen 2026-08-08T09:17:53.236Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-11, first seen 2026-08-08T09:17:53.236Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-10, first seen 2026-08-08T09:32:49.911Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-10, first seen 2026-08-08T09:32:49.911Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-10, first seen 2026-08-08T09:32:49.911Z, uncertainty ±14m
-- Thudakkam — show 2026-08-10, first seen 2026-08-08T09:32:49.911Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-10, first seen 2026-08-08T09:32:49.911Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-10, first seen 2026-08-08T09:32:49.911Z, uncertainty ±14m
-- The Odyssey — show 2026-08-10, first seen 2026-08-08T09:32:49.911Z, uncertainty ±14m
-- G.D.N — show 2026-08-10, first seen 2026-08-08T09:32:49.911Z, uncertainty ±14m
-- G.D.N — show 2026-08-10, first seen 2026-08-08T09:32:49.911Z, uncertainty ±14m
-- G.D.N — show 2026-08-10, first seen 2026-08-08T09:32:49.911Z, uncertainty ±14m
-- G.D.N — show 2026-08-10, first seen 2026-08-08T09:32:49.911Z, uncertainty ±14m
-- Gatta Kusthi 2 — show 2026-08-10, first seen 2026-08-08T09:32:49.911Z, uncertainty ±14m
-- Idhayam Murali — show 2026-08-10, first seen 2026-08-08T09:32:49.911Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-10, first seen 2026-08-08T09:32:49.911Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-10, first seen 2026-08-08T09:32:49.911Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-10, first seen 2026-08-08T09:32:49.911Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-10, first seen 2026-08-08T09:32:49.911Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-10, first seen 2026-08-08T09:32:49.911Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-10, first seen 2026-08-08T09:32:49.911Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-10, first seen 2026-08-08T09:32:49.911Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-10, first seen 2026-08-08T09:32:49.911Z, uncertainty ±14m
-- Anbe Diana — show 2026-08-10, first seen 2026-08-08T09:32:49.911Z, uncertainty ±14m
-- Photographer — show 2026-08-10, first seen 2026-08-08T09:32:49.911Z, uncertainty ±14m
-- Korean Kanakaraju — show 2026-08-10, first seen 2026-08-08T09:32:49.911Z, uncertainty ±14m
-- Korean Kanakaraju — show 2026-08-10, first seen 2026-08-08T09:32:49.911Z, uncertainty ±14m
-- DC — show 2026-08-10, first seen 2026-08-08T09:32:49.911Z, uncertainty ±14m
-- DC — show 2026-08-10, first seen 2026-08-08T10:02:55.181Z, uncertainty ±8m
-- DC — show 2026-08-11, first seen 2026-08-08T10:32:50.602Z, uncertainty ±14m
-- DC — show 2026-08-11, first seen 2026-08-08T10:32:50.602Z, uncertainty ±14m
-- DC — show 2026-08-11, first seen 2026-08-08T10:32:50.602Z, uncertainty ±14m
-- DC — show 2026-08-11, first seen 2026-08-08T10:32:50.602Z, uncertainty ±14m
-- DC — show 2026-08-11, first seen 2026-08-08T10:32:50.602Z, uncertainty ±14m
-- Jana Nayagan — show 2026-08-10, first seen 2026-08-08T10:47:40.351Z, uncertainty ±14m
-- Jana Nayagan — show 2026-08-10, first seen 2026-08-08T10:47:40.351Z, uncertainty ±14m
-- DC — show 2026-08-10, first seen 2026-08-08T10:47:40.351Z, uncertainty ±14m
-- DC — show 2026-08-10, first seen 2026-08-08T10:47:40.351Z, uncertainty ±14m
-- DC — show 2026-08-10, first seen 2026-08-08T10:47:40.351Z, uncertainty ±14m
-- DC — show 2026-08-10, first seen 2026-08-08T10:47:40.351Z, uncertainty ±14m
-- DC — show 2026-08-10, first seen 2026-08-08T10:47:40.351Z, uncertainty ±14m
-- Jana Nayagan — show 2026-08-11, first seen 2026-08-08T10:47:42.874Z, uncertainty ±14m
-- Jana Nayagan — show 2026-08-11, first seen 2026-08-08T10:47:42.874Z, uncertainty ±14m
-- Jana Nayagan — show 2026-08-11, first seen 2026-08-08T10:47:42.874Z, uncertainty ±14m
-- Jana Nayagan — show 2026-08-11, first seen 2026-08-08T10:47:42.874Z, uncertainty ±14m
-- Jana Nayagan — show 2026-08-10, first seen 2026-08-08T11:02:57.254Z, uncertainty ±14m
-- Jana Nayagan — show 2026-08-10, first seen 2026-08-08T11:02:57.254Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-12, first seen 2026-08-08T12:17:37.665Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-12, first seen 2026-08-08T12:17:37.665Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-12, first seen 2026-08-08T12:17:37.665Z, uncertainty ±14m
-- Thudakkam — show 2026-08-12, first seen 2026-08-08T12:17:37.665Z, uncertainty ±14m
-- The Odyssey — show 2026-08-12, first seen 2026-08-08T12:17:37.665Z, uncertainty ±14m
-- G.D.N — show 2026-08-12, first seen 2026-08-08T12:17:37.665Z, uncertainty ±14m
-- Gatta Kusthi 2 — show 2026-08-12, first seen 2026-08-08T12:17:37.665Z, uncertainty ±14m
-- Idhayam Murali — show 2026-08-12, first seen 2026-08-08T12:17:37.665Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-12, first seen 2026-08-08T12:17:37.665Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-12, first seen 2026-08-08T12:17:37.665Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-12, first seen 2026-08-08T12:17:37.665Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-12, first seen 2026-08-08T12:17:37.665Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-12, first seen 2026-08-08T12:17:37.665Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-12, first seen 2026-08-08T12:17:37.665Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-12, first seen 2026-08-08T12:17:37.665Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-12, first seen 2026-08-08T12:17:37.665Z, uncertainty ±14m
-- Anbe Diana — show 2026-08-12, first seen 2026-08-08T12:17:37.665Z, uncertainty ±14m
-- Photographer — show 2026-08-12, first seen 2026-08-08T12:17:37.665Z, uncertainty ±14m
-- Korean Kanakaraju — show 2026-08-12, first seen 2026-08-08T12:17:37.665Z, uncertainty ±14m
-- Korean Kanakaraju — show 2026-08-12, first seen 2026-08-08T12:17:37.665Z, uncertainty ±14m
-- DC — show 2026-08-12, first seen 2026-08-08T12:17:37.665Z, uncertainty ±14m
-- DC — show 2026-08-12, first seen 2026-08-08T12:17:37.665Z, uncertainty ±14m
-- DC — show 2026-08-12, first seen 2026-08-08T12:17:37.665Z, uncertainty ±14m
-- DC — show 2026-08-12, first seen 2026-08-08T12:17:37.665Z, uncertainty ±14m
-- DC — show 2026-08-12, first seen 2026-08-08T12:17:37.665Z, uncertainty ±14m
-- DC — show 2026-08-12, first seen 2026-08-08T12:17:37.665Z, uncertainty ±14m
-- DC — show 2026-08-12, first seen 2026-08-08T12:17:37.665Z, uncertainty ±14m
-- G.D.N — show 2026-08-11, first seen 2026-08-08T13:47:34.161Z, uncertainty ±14m
-- G.D.N — show 2026-08-12, first seen 2026-08-08T13:47:36.546Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-12, first seen 2026-08-08T15:03:24.187Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-12, first seen 2026-08-08T15:03:24.187Z, uncertainty ±15m
-- G.D.N — show 2026-08-12, first seen 2026-08-08T15:03:24.187Z, uncertainty ±15m
-- G.D.N — show 2026-08-12, first seen 2026-08-08T15:03:24.187Z, uncertainty ±15m
-- Jana Nayagan — show 2026-08-12, first seen 2026-08-08T15:17:42.787Z, uncertainty ±14m
-- Jana Nayagan — show 2026-08-12, first seen 2026-08-08T15:17:42.787Z, uncertainty ±14m
-- Jana Nayagan — show 2026-08-12, first seen 2026-08-08T15:17:42.787Z, uncertainty ±14m
-- Jana Nayagan — show 2026-08-12, first seen 2026-08-08T15:17:42.787Z, uncertainty ±14m
-- DC — show 2026-08-10, first seen 2026-08-08T15:33:00.622Z, uncertainty ±15m
 - DC — show 2026-08-12, first seen 2026-08-09T06:33:03.503Z, uncertainty ±14m
 - DC — show 2026-08-11, first seen 2026-08-09T06:47:47.189Z, uncertainty ±14m
 - Jana Nayagan — show 2026-08-13, first seen 2026-08-11T09:48:46.075Z, uncertainty ±14m
@@ -863,114 +643,15 @@ _Generated 2026-08-15 03:02 UTC_
 - Magudam — show 2026-08-19, first seen 2026-08-14T21:34:15.950Z, uncertainty ±15m
 - Magudam — show 2026-08-19, first seen 2026-08-14T21:34:15.950Z, uncertainty ±15m
 - Magudam — show 2026-08-19, first seen 2026-08-14T21:34:15.950Z, uncertainty ±15m
+- Spider-Man: Brand New Day — show 2026-08-17, first seen 2026-08-15T05:33:37.785Z, uncertainty ±14m
+- Vishwanath and Sons — show 2026-08-16, first seen 2026-08-15T08:33:52.413Z, uncertainty ±15m
+- The End of Oak Street — show 2026-08-17, first seen 2026-08-15T08:33:54.862Z, uncertainty ±15m
+- Magudam — show 2026-08-17, first seen 2026-08-15T08:33:54.862Z, uncertainty ±15m
+- Magudam — show 2026-08-17, first seen 2026-08-15T08:33:54.862Z, uncertainty ±15m
+- Magudam — show 2026-08-17, first seen 2026-08-15T08:33:54.862Z, uncertainty ±15m
+- Vishwanath and Sons — show 2026-08-16, first seen 2026-08-15T08:49:06.674Z, uncertainty ±14m
 
 ### PVR VR Mall, Anna Nagar, Chennai
-- G.D.N — show 2026-08-10, first seen 2026-08-08T05:33:12.490Z, uncertainty ±14m
-- Jana Nayagan — show 2026-08-10, first seen 2026-08-08T05:48:16.698Z, uncertainty ±14m
-- Jana Nayagan — show 2026-08-11, first seen 2026-08-08T06:03:34.401Z, uncertainty ±14m
-- Jana Nayagan — show 2026-08-11, first seen 2026-08-08T06:03:34.401Z, uncertainty ±14m
-- Jana Nayagan — show 2026-08-11, first seen 2026-08-08T06:03:34.401Z, uncertainty ±14m
-- Jana Nayagan — show 2026-08-11, first seen 2026-08-08T06:03:34.401Z, uncertainty ±14m
-- DC — show 2026-08-11, first seen 2026-08-08T06:03:34.401Z, uncertainty ±14m
-- DC — show 2026-08-11, first seen 2026-08-08T06:03:34.401Z, uncertainty ±14m
-- DC — show 2026-08-11, first seen 2026-08-08T06:03:34.401Z, uncertainty ±14m
-- DC — show 2026-08-11, first seen 2026-08-08T06:03:34.401Z, uncertainty ±14m
-- DC — show 2026-08-11, first seen 2026-08-08T06:03:34.401Z, uncertainty ±14m
-- Jana Nayagan — show 2026-08-12, first seen 2026-08-08T06:03:36.943Z, uncertainty ±14m
-- Jana Nayagan — show 2026-08-12, first seen 2026-08-08T06:03:36.943Z, uncertainty ±14m
-- Jana Nayagan — show 2026-08-12, first seen 2026-08-08T06:03:36.943Z, uncertainty ±14m
-- Jana Nayagan — show 2026-08-12, first seen 2026-08-08T06:03:36.943Z, uncertainty ±14m
-- DC — show 2026-08-12, first seen 2026-08-08T06:03:36.943Z, uncertainty ±14m
-- DC — show 2026-08-12, first seen 2026-08-08T06:03:36.943Z, uncertainty ±14m
-- DC — show 2026-08-12, first seen 2026-08-08T06:03:36.943Z, uncertainty ±14m
-- DC — show 2026-08-12, first seen 2026-08-08T06:03:36.943Z, uncertainty ±14m
-- DC — show 2026-08-12, first seen 2026-08-08T06:03:36.943Z, uncertainty ±14m
-- Vinnaithaandi Varuvaayaa — show 2026-08-11, first seen 2026-08-08T06:48:05.431Z, uncertainty ±14m
-- Idhayam Murali — show 2026-08-11, first seen 2026-08-08T06:48:05.431Z, uncertainty ±14m
-- Chennai Love Story — show 2026-08-11, first seen 2026-08-08T06:48:05.431Z, uncertainty ±14m
-- Hanuman Ansh — show 2026-08-11, first seen 2026-08-08T06:48:05.431Z, uncertainty ±14m
-- Vinnaithaandi Varuvaayaa — show 2026-08-12, first seen 2026-08-08T06:48:07.785Z, uncertainty ±14m
-- Idhayam Murali — show 2026-08-12, first seen 2026-08-08T06:48:07.785Z, uncertainty ±14m
-- Chennai Love Story — show 2026-08-12, first seen 2026-08-08T06:48:07.785Z, uncertainty ±14m
-- Hanuman Ansh — show 2026-08-12, first seen 2026-08-08T06:48:07.785Z, uncertainty ±14m
-- DC — show 2026-08-10, first seen 2026-08-08T07:14:11.861Z, uncertainty ±10m
-- Hanuman Ansh — show 2026-08-10, first seen 2026-08-08T07:14:11.861Z, uncertainty ±10m
-- Spider-Man: Brand New Day — show 2026-08-11, first seen 2026-08-08T07:33:14.653Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-11, first seen 2026-08-08T07:33:14.653Z, uncertainty ±14m
-- Thudakkam — show 2026-08-11, first seen 2026-08-08T07:33:14.653Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-11, first seen 2026-08-08T07:33:14.653Z, uncertainty ±14m
-- Photographer — show 2026-08-11, first seen 2026-08-08T07:33:14.653Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-12, first seen 2026-08-08T07:33:17.065Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-12, first seen 2026-08-08T07:33:17.065Z, uncertainty ±14m
-- Thudakkam — show 2026-08-12, first seen 2026-08-08T07:33:17.065Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-12, first seen 2026-08-08T07:33:17.065Z, uncertainty ±14m
-- Photographer — show 2026-08-12, first seen 2026-08-08T07:33:17.065Z, uncertainty ±14m
-- The Odyssey — show 2026-08-11, first seen 2026-08-08T07:47:57.413Z, uncertainty ±14m
-- The Odyssey — show 2026-08-11, first seen 2026-08-08T07:47:57.413Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-11, first seen 2026-08-08T07:47:57.413Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-11, first seen 2026-08-08T07:47:57.413Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-11, first seen 2026-08-08T07:47:57.413Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-11, first seen 2026-08-08T07:47:57.413Z, uncertainty ±14m
-- Korean Kanakaraju — show 2026-08-11, first seen 2026-08-08T07:47:57.413Z, uncertainty ±14m
-- Korean Kanakaraju — show 2026-08-11, first seen 2026-08-08T07:47:57.413Z, uncertainty ±14m
-- DC — show 2026-08-11, first seen 2026-08-08T07:47:57.413Z, uncertainty ±14m
-- The Odyssey — show 2026-08-12, first seen 2026-08-08T07:47:59.803Z, uncertainty ±14m
-- The Odyssey — show 2026-08-12, first seen 2026-08-08T07:47:59.803Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-12, first seen 2026-08-08T07:47:59.803Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-12, first seen 2026-08-08T07:47:59.803Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-12, first seen 2026-08-08T07:47:59.803Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-12, first seen 2026-08-08T07:47:59.803Z, uncertainty ±14m
-- Korean Kanakaraju — show 2026-08-12, first seen 2026-08-08T07:47:59.803Z, uncertainty ±14m
-- Korean Kanakaraju — show 2026-08-12, first seen 2026-08-08T07:47:59.803Z, uncertainty ±14m
-- DC — show 2026-08-12, first seen 2026-08-08T07:47:59.803Z, uncertainty ±14m
-- Jana Nayagan — show 2026-08-10, first seen 2026-08-08T08:18:00.730Z, uncertainty ±14m
-- Jana Nayagan — show 2026-08-10, first seen 2026-08-08T08:18:00.730Z, uncertainty ±14m
-- Jana Nayagan — show 2026-08-10, first seen 2026-08-08T08:18:00.730Z, uncertainty ±14m
-- G.D.N — show 2026-08-10, first seen 2026-08-08T08:18:00.730Z, uncertainty ±14m
-- G.D.N — show 2026-08-10, first seen 2026-08-08T08:18:00.730Z, uncertainty ±14m
-- G.D.N — show 2026-08-10, first seen 2026-08-08T08:18:00.730Z, uncertainty ±14m
-- G.D.N — show 2026-08-10, first seen 2026-08-08T08:18:00.730Z, uncertainty ±14m
-- DC — show 2026-08-10, first seen 2026-08-08T08:18:00.730Z, uncertainty ±14m
-- DC — show 2026-08-10, first seen 2026-08-08T08:18:00.730Z, uncertainty ±14m
-- DC — show 2026-08-10, first seen 2026-08-08T08:18:00.730Z, uncertainty ±14m
-- DC — show 2026-08-10, first seen 2026-08-08T08:18:00.730Z, uncertainty ±14m
-- DC — show 2026-08-10, first seen 2026-08-08T08:18:00.730Z, uncertainty ±14m
-- DC — show 2026-08-10, first seen 2026-08-08T08:18:00.730Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-09, first seen 2026-08-08T08:33:03.893Z, uncertainty ±14m
-- Vinnaithaandi Varuvaayaa — show 2026-08-10, first seen 2026-08-08T10:03:21.190Z, uncertainty ±8m
-- Spider-Man: Brand New Day — show 2026-08-10, first seen 2026-08-08T10:03:21.190Z, uncertainty ±8m
-- Spider-Man: Brand New Day — show 2026-08-10, first seen 2026-08-08T10:03:21.190Z, uncertainty ±8m
-- Thudakkam — show 2026-08-10, first seen 2026-08-08T10:03:21.190Z, uncertainty ±8m
-- Spider-Man: Brand New Day — show 2026-08-10, first seen 2026-08-08T10:03:21.190Z, uncertainty ±8m
-- Idhayam Murali — show 2026-08-10, first seen 2026-08-08T10:03:21.190Z, uncertainty ±8m
-- Photographer — show 2026-08-10, first seen 2026-08-08T10:03:21.190Z, uncertainty ±8m
-- Chennai Love Story — show 2026-08-10, first seen 2026-08-08T10:03:21.190Z, uncertainty ±8m
-- G.D.N — show 2026-08-11, first seen 2026-08-08T10:18:02.849Z, uncertainty ±14m
-- G.D.N — show 2026-08-12, first seen 2026-08-08T10:48:12.850Z, uncertainty ±14m
-- The Odyssey — show 2026-08-10, first seen 2026-08-08T11:03:23.927Z, uncertainty ±14m
-- The Odyssey — show 2026-08-10, first seen 2026-08-08T11:03:23.927Z, uncertainty ±14m
-- Korean Kanakaraju — show 2026-08-10, first seen 2026-08-08T11:03:23.927Z, uncertainty ±14m
-- Korean Kanakaraju — show 2026-08-10, first seen 2026-08-08T11:03:23.927Z, uncertainty ±14m
-- Dookudu — show 2026-08-10, first seen 2026-08-08T14:03:38.661Z, uncertainty ±15m
-- G.D.N — show 2026-08-10, first seen 2026-08-08T14:03:38.661Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-10, first seen 2026-08-08T14:03:38.661Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-10, first seen 2026-08-08T14:03:38.661Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-10, first seen 2026-08-08T14:03:38.661Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-10, first seen 2026-08-08T14:03:38.661Z, uncertainty ±15m
-- DC — show 2026-08-10, first seen 2026-08-08T14:03:38.661Z, uncertainty ±15m
-- Dookudu — show 2026-08-11, first seen 2026-08-08T14:03:41.337Z, uncertainty ±15m
-- Dookudu — show 2026-08-12, first seen 2026-08-08T14:03:43.940Z, uncertainty ±15m
-- G.D.N — show 2026-08-11, first seen 2026-08-08T14:18:28.611Z, uncertainty ±14m
-- G.D.N — show 2026-08-11, first seen 2026-08-08T14:18:28.611Z, uncertainty ±14m
-- G.D.N — show 2026-08-11, first seen 2026-08-08T14:18:28.611Z, uncertainty ±14m
-- G.D.N — show 2026-08-11, first seen 2026-08-08T14:18:28.611Z, uncertainty ±14m
-- G.D.N — show 2026-08-11, first seen 2026-08-08T14:18:28.611Z, uncertainty ±14m
-- G.D.N — show 2026-08-12, first seen 2026-08-08T14:18:31.128Z, uncertainty ±14m
-- G.D.N — show 2026-08-12, first seen 2026-08-08T14:18:31.128Z, uncertainty ±14m
-- G.D.N — show 2026-08-12, first seen 2026-08-08T14:18:31.128Z, uncertainty ±14m
-- G.D.N — show 2026-08-12, first seen 2026-08-08T14:18:31.128Z, uncertainty ±14m
-- G.D.N — show 2026-08-12, first seen 2026-08-08T14:18:31.128Z, uncertainty ±14m
-- DC — show 2026-08-11, first seen 2026-08-08T14:33:32.222Z, uncertainty ±14m
 - Photographer — show 2026-08-11, first seen 2026-08-10T13:04:07.269Z, uncertainty ±14m
 - Photographer — show 2026-08-12, first seen 2026-08-10T13:04:09.867Z, uncertainty ±14m
 - DC — show 2026-08-12, first seen 2026-08-11T07:18:45.441Z, uncertainty ±14m
@@ -1308,147 +989,13 @@ _Generated 2026-08-15 03:02 UTC_
 - Vishwanath and Sons — show 2026-08-14, first seen 2026-08-13T17:48:26.387Z, uncertainty ±13m
 - Awarapan 2 — show 2026-08-16, first seen 2026-08-14T03:48:29.743Z, uncertainty ±14m
 - Spider-Man: Brand New Day — show 2026-08-16, first seen 2026-08-14T03:48:29.743Z, uncertainty ±14m
+- Awarapan 2 — show 2026-08-15, first seen 2026-08-15T04:19:41.069Z, uncertainty ±14m
+- Vishwanath and Sons — show 2026-08-17, first seen 2026-08-15T05:34:04.627Z, uncertainty ±14m
+- Vishwanath and Sons — show 2026-08-18, first seen 2026-08-15T05:34:07.406Z, uncertainty ±14m
+- Vishwanath and Sons — show 2026-08-19, first seen 2026-08-15T08:34:26.166Z, uncertainty ±15m
+- Vishwanath and Sons — show 2026-08-16, first seen 2026-08-15T14:48:54.860Z, uncertainty ±13m
 
 ### Cinepolis BSR Mall OMR, Thoraipakkam, Chennai
-- Dookudu — show 2026-08-10, first seen 2026-08-08T13:02:34.999Z, uncertainty ±15m
-- Jana Nayagan — show 2026-08-10, first seen 2026-08-08T13:02:34.999Z, uncertainty ±15m
-- Jana Nayagan — show 2026-08-10, first seen 2026-08-08T13:02:34.999Z, uncertainty ±15m
-- Jana Nayagan — show 2026-08-10, first seen 2026-08-08T13:02:34.999Z, uncertainty ±15m
-- Jana Nayagan — show 2026-08-10, first seen 2026-08-08T13:02:34.999Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-10, first seen 2026-08-08T13:02:34.999Z, uncertainty ±15m
-- The Odyssey — show 2026-08-10, first seen 2026-08-08T13:02:34.999Z, uncertainty ±15m
-- Thudakkam — show 2026-08-10, first seen 2026-08-08T13:02:34.999Z, uncertainty ±15m
-- The Odyssey — show 2026-08-10, first seen 2026-08-08T13:02:34.999Z, uncertainty ±15m
-- G.D.N — show 2026-08-10, first seen 2026-08-08T13:02:34.999Z, uncertainty ±15m
-- G.D.N — show 2026-08-10, first seen 2026-08-08T13:02:34.999Z, uncertainty ±15m
-- G.D.N — show 2026-08-10, first seen 2026-08-08T13:02:34.999Z, uncertainty ±15m
-- G.D.N — show 2026-08-10, first seen 2026-08-08T13:02:34.999Z, uncertainty ±15m
-- G.D.N — show 2026-08-10, first seen 2026-08-08T13:02:34.999Z, uncertainty ±15m
-- Idhayam Murali — show 2026-08-10, first seen 2026-08-08T13:02:34.999Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-10, first seen 2026-08-08T13:02:34.999Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-10, first seen 2026-08-08T13:02:34.999Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-10, first seen 2026-08-08T13:02:34.999Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-10, first seen 2026-08-08T13:02:34.999Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-10, first seen 2026-08-08T13:02:34.999Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-10, first seen 2026-08-08T13:02:34.999Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-10, first seen 2026-08-08T13:02:34.999Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-10, first seen 2026-08-08T13:02:34.999Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-10, first seen 2026-08-08T13:02:34.999Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-10, first seen 2026-08-08T13:02:34.999Z, uncertainty ±15m
-- Photographer — show 2026-08-10, first seen 2026-08-08T13:02:34.999Z, uncertainty ±15m
-- Korean Kanakaraju — show 2026-08-10, first seen 2026-08-08T13:02:34.999Z, uncertainty ±15m
-- Korean Kanakaraju — show 2026-08-10, first seen 2026-08-08T13:02:34.999Z, uncertainty ±15m
-- DC — show 2026-08-10, first seen 2026-08-08T13:02:34.999Z, uncertainty ±15m
-- DC — show 2026-08-10, first seen 2026-08-08T13:02:34.999Z, uncertainty ±15m
-- DC — show 2026-08-10, first seen 2026-08-08T13:02:34.999Z, uncertainty ±15m
-- DC — show 2026-08-10, first seen 2026-08-08T13:02:34.999Z, uncertainty ±15m
-- DC — show 2026-08-10, first seen 2026-08-08T13:02:34.999Z, uncertainty ±15m
-- DC — show 2026-08-10, first seen 2026-08-08T13:02:34.999Z, uncertainty ±15m
-- Hanuman Ansh — show 2026-08-10, first seen 2026-08-08T13:02:34.999Z, uncertainty ±15m
-- Dookudu — show 2026-08-11, first seen 2026-08-08T13:02:37.468Z, uncertainty ±15m
-- Jana Nayagan — show 2026-08-11, first seen 2026-08-08T13:02:37.468Z, uncertainty ±15m
-- Jana Nayagan — show 2026-08-11, first seen 2026-08-08T13:02:37.468Z, uncertainty ±15m
-- Jana Nayagan — show 2026-08-11, first seen 2026-08-08T13:02:37.468Z, uncertainty ±15m
-- Jana Nayagan — show 2026-08-11, first seen 2026-08-08T13:02:37.468Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-11, first seen 2026-08-08T13:02:37.468Z, uncertainty ±15m
-- The Odyssey — show 2026-08-11, first seen 2026-08-08T13:02:37.468Z, uncertainty ±15m
-- Thudakkam — show 2026-08-11, first seen 2026-08-08T13:02:37.468Z, uncertainty ±15m
-- The Odyssey — show 2026-08-11, first seen 2026-08-08T13:02:37.468Z, uncertainty ±15m
-- G.D.N — show 2026-08-11, first seen 2026-08-08T13:02:37.468Z, uncertainty ±15m
-- G.D.N — show 2026-08-11, first seen 2026-08-08T13:02:37.468Z, uncertainty ±15m
-- G.D.N — show 2026-08-11, first seen 2026-08-08T13:02:37.468Z, uncertainty ±15m
-- G.D.N — show 2026-08-11, first seen 2026-08-08T13:02:37.468Z, uncertainty ±15m
-- G.D.N — show 2026-08-11, first seen 2026-08-08T13:02:37.468Z, uncertainty ±15m
-- Idhayam Murali — show 2026-08-11, first seen 2026-08-08T13:02:37.468Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-11, first seen 2026-08-08T13:02:37.468Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-11, first seen 2026-08-08T13:02:37.468Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-11, first seen 2026-08-08T13:02:37.468Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-11, first seen 2026-08-08T13:02:37.468Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-11, first seen 2026-08-08T13:02:37.468Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-11, first seen 2026-08-08T13:02:37.468Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-11, first seen 2026-08-08T13:02:37.468Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-11, first seen 2026-08-08T13:02:37.468Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-11, first seen 2026-08-08T13:02:37.468Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-11, first seen 2026-08-08T13:02:37.468Z, uncertainty ±15m
-- Photographer — show 2026-08-11, first seen 2026-08-08T13:02:37.468Z, uncertainty ±15m
-- Korean Kanakaraju — show 2026-08-11, first seen 2026-08-08T13:02:37.468Z, uncertainty ±15m
-- Korean Kanakaraju — show 2026-08-11, first seen 2026-08-08T13:02:37.468Z, uncertainty ±15m
-- DC — show 2026-08-11, first seen 2026-08-08T13:02:37.468Z, uncertainty ±15m
-- DC — show 2026-08-11, first seen 2026-08-08T13:02:37.468Z, uncertainty ±15m
-- DC — show 2026-08-11, first seen 2026-08-08T13:02:37.468Z, uncertainty ±15m
-- DC — show 2026-08-11, first seen 2026-08-08T13:02:37.468Z, uncertainty ±15m
-- DC — show 2026-08-11, first seen 2026-08-08T13:02:37.468Z, uncertainty ±15m
-- DC — show 2026-08-11, first seen 2026-08-08T13:02:37.468Z, uncertainty ±15m
-- Hanuman Ansh — show 2026-08-11, first seen 2026-08-08T13:02:37.468Z, uncertainty ±15m
-- Dookudu — show 2026-08-12, first seen 2026-08-08T13:02:39.984Z, uncertainty ±15m
-- Jana Nayagan — show 2026-08-12, first seen 2026-08-08T13:02:39.984Z, uncertainty ±15m
-- Jana Nayagan — show 2026-08-12, first seen 2026-08-08T13:02:39.984Z, uncertainty ±15m
-- Jana Nayagan — show 2026-08-12, first seen 2026-08-08T13:02:39.984Z, uncertainty ±15m
-- Jana Nayagan — show 2026-08-12, first seen 2026-08-08T13:02:39.984Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-12, first seen 2026-08-08T13:02:39.984Z, uncertainty ±15m
-- The Odyssey — show 2026-08-12, first seen 2026-08-08T13:02:39.984Z, uncertainty ±15m
-- Thudakkam — show 2026-08-12, first seen 2026-08-08T13:02:39.984Z, uncertainty ±15m
-- The Odyssey — show 2026-08-12, first seen 2026-08-08T13:02:39.984Z, uncertainty ±15m
-- G.D.N — show 2026-08-12, first seen 2026-08-08T13:02:39.984Z, uncertainty ±15m
-- G.D.N — show 2026-08-12, first seen 2026-08-08T13:02:39.984Z, uncertainty ±15m
-- G.D.N — show 2026-08-12, first seen 2026-08-08T13:02:39.984Z, uncertainty ±15m
-- G.D.N — show 2026-08-12, first seen 2026-08-08T13:02:39.984Z, uncertainty ±15m
-- G.D.N — show 2026-08-12, first seen 2026-08-08T13:02:39.984Z, uncertainty ±15m
-- Idhayam Murali — show 2026-08-12, first seen 2026-08-08T13:02:39.984Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-12, first seen 2026-08-08T13:02:39.984Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-12, first seen 2026-08-08T13:02:39.984Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-12, first seen 2026-08-08T13:02:39.984Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-12, first seen 2026-08-08T13:02:39.984Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-12, first seen 2026-08-08T13:02:39.984Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-12, first seen 2026-08-08T13:02:39.984Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-12, first seen 2026-08-08T13:02:39.984Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-12, first seen 2026-08-08T13:02:39.984Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-12, first seen 2026-08-08T13:02:39.984Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-12, first seen 2026-08-08T13:02:39.984Z, uncertainty ±15m
-- Photographer — show 2026-08-12, first seen 2026-08-08T13:02:39.984Z, uncertainty ±15m
-- Korean Kanakaraju — show 2026-08-12, first seen 2026-08-08T13:02:39.984Z, uncertainty ±15m
-- Korean Kanakaraju — show 2026-08-12, first seen 2026-08-08T13:02:39.984Z, uncertainty ±15m
-- DC — show 2026-08-12, first seen 2026-08-08T13:02:39.984Z, uncertainty ±15m
-- DC — show 2026-08-12, first seen 2026-08-08T13:02:39.984Z, uncertainty ±15m
-- DC — show 2026-08-12, first seen 2026-08-08T13:02:39.984Z, uncertainty ±15m
-- DC — show 2026-08-12, first seen 2026-08-08T13:02:39.984Z, uncertainty ±15m
-- DC — show 2026-08-12, first seen 2026-08-08T13:02:39.984Z, uncertainty ±15m
-- DC — show 2026-08-12, first seen 2026-08-08T13:02:39.984Z, uncertainty ±15m
-- Hanuman Ansh — show 2026-08-12, first seen 2026-08-08T13:02:39.984Z, uncertainty ±15m
-- Idhayam Murali — show 2026-08-10, first seen 2026-08-08T13:32:29.584Z, uncertainty ±15m
-- Jana Nayagan — show 2026-08-11, first seen 2026-08-08T13:32:32.024Z, uncertainty ±15m
-- Jana Nayagan — show 2026-08-11, first seen 2026-08-08T13:32:32.024Z, uncertainty ±15m
-- Jana Nayagan — show 2026-08-11, first seen 2026-08-08T13:32:32.024Z, uncertainty ±15m
-- Jana Nayagan — show 2026-08-11, first seen 2026-08-08T13:32:32.024Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-11, first seen 2026-08-08T13:32:32.024Z, uncertainty ±15m
-- The Odyssey — show 2026-08-11, first seen 2026-08-08T13:32:32.024Z, uncertainty ±15m
-- Thudakkam — show 2026-08-11, first seen 2026-08-08T13:32:32.024Z, uncertainty ±15m
-- The Odyssey — show 2026-08-11, first seen 2026-08-08T13:32:32.024Z, uncertainty ±15m
-- Idhayam Murali — show 2026-08-11, first seen 2026-08-08T13:32:32.024Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-11, first seen 2026-08-08T13:32:32.024Z, uncertainty ±15m
-- DC — show 2026-08-11, first seen 2026-08-08T13:32:32.024Z, uncertainty ±15m
-- DC — show 2026-08-11, first seen 2026-08-08T13:32:32.024Z, uncertainty ±15m
-- DC — show 2026-08-11, first seen 2026-08-08T13:32:32.024Z, uncertainty ±15m
-- DC — show 2026-08-11, first seen 2026-08-08T13:32:32.024Z, uncertainty ±15m
-- DC — show 2026-08-11, first seen 2026-08-08T13:32:32.024Z, uncertainty ±15m
-- Hanuman Ansh — show 2026-08-11, first seen 2026-08-08T13:32:32.024Z, uncertainty ±15m
-- Jana Nayagan — show 2026-08-12, first seen 2026-08-08T13:32:34.484Z, uncertainty ±15m
-- Jana Nayagan — show 2026-08-12, first seen 2026-08-08T13:32:34.484Z, uncertainty ±15m
-- Jana Nayagan — show 2026-08-12, first seen 2026-08-08T13:32:34.484Z, uncertainty ±15m
-- Jana Nayagan — show 2026-08-12, first seen 2026-08-08T13:32:34.484Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-12, first seen 2026-08-08T13:32:34.484Z, uncertainty ±15m
-- The Odyssey — show 2026-08-12, first seen 2026-08-08T13:32:34.484Z, uncertainty ±15m
-- Thudakkam — show 2026-08-12, first seen 2026-08-08T13:32:34.484Z, uncertainty ±15m
-- The Odyssey — show 2026-08-12, first seen 2026-08-08T13:32:34.484Z, uncertainty ±15m
-- Idhayam Murali — show 2026-08-12, first seen 2026-08-08T13:32:34.484Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-12, first seen 2026-08-08T13:32:34.484Z, uncertainty ±15m
-- Spider-Man: Brand New Day — show 2026-08-12, first seen 2026-08-08T13:32:34.484Z, uncertainty ±15m
-- DC — show 2026-08-12, first seen 2026-08-08T13:32:34.484Z, uncertainty ±15m
-- DC — show 2026-08-12, first seen 2026-08-08T13:32:34.484Z, uncertainty ±15m
-- DC — show 2026-08-12, first seen 2026-08-08T13:32:34.484Z, uncertainty ±15m
-- DC — show 2026-08-12, first seen 2026-08-08T13:32:34.484Z, uncertainty ±15m
-- DC — show 2026-08-12, first seen 2026-08-08T13:32:34.484Z, uncertainty ±15m
-- Hanuman Ansh — show 2026-08-12, first seen 2026-08-08T13:32:34.484Z, uncertainty ±15m
 - DC — show 2026-08-11, first seen 2026-08-10T05:35:18.681Z, uncertainty ±17m
 - DC — show 2026-08-12, first seen 2026-08-10T05:35:21.204Z, uncertainty ±17m
 - DC — show 2026-08-11, first seen 2026-08-10T09:17:40.477Z, uncertainty ±13m
@@ -1720,17 +1267,43 @@ _Generated 2026-08-15 03:02 UTC_
 - Vishwanath and Sons — show 2026-08-19, first seen 2026-08-14T08:17:39.439Z, uncertainty ±12m
 - Spider-Man: Brand New Day — show 2026-08-18, first seen 2026-08-14T08:48:02.937Z, uncertainty ±14m
 - Spider-Man: Brand New Day — show 2026-08-19, first seen 2026-08-14T08:48:05.374Z, uncertainty ±14m
+- Vishwanath and Sons — show 2026-08-15, first seen 2026-08-15T09:33:05.457Z, uncertainty ±14m
+- Vishwanath and Sons — show 2026-08-16, first seen 2026-08-15T09:33:07.867Z, uncertainty ±14m
+- Vishwanath and Sons — show 2026-08-16, first seen 2026-08-15T09:33:07.867Z, uncertainty ±14m
+- Vishwanath and Sons — show 2026-08-16, first seen 2026-08-15T09:33:07.867Z, uncertainty ±14m
+- Vishwanath and Sons — show 2026-08-16, first seen 2026-08-15T09:33:07.867Z, uncertainty ±14m
+- Vishwanath and Sons — show 2026-08-16, first seen 2026-08-15T09:33:07.867Z, uncertainty ±14m
+- G.D.N — show 2026-08-16, first seen 2026-08-15T09:33:07.867Z, uncertainty ±14m
+- The End of Oak Street — show 2026-08-17, first seen 2026-08-15T09:33:10.290Z, uncertainty ±14m
+- Vishwanath and Sons — show 2026-08-17, first seen 2026-08-15T09:33:10.290Z, uncertainty ±14m
+- Awarapan 2 — show 2026-08-17, first seen 2026-08-15T09:47:54.615Z, uncertainty ±7m
+- The End of Oak Street — show 2026-08-17, first seen 2026-08-15T09:47:54.615Z, uncertainty ±7m
+- Vishwanath and Sons — show 2026-08-17, first seen 2026-08-15T09:47:54.615Z, uncertainty ±7m
+- G.D.N — show 2026-08-17, first seen 2026-08-15T09:47:54.615Z, uncertainty ±7m
+- DC — show 2026-08-17, first seen 2026-08-15T09:47:54.615Z, uncertainty ±7m
+- Awarapan 2 — show 2026-08-18, first seen 2026-08-15T09:47:57.021Z, uncertainty ±7m
+- The End of Oak Street — show 2026-08-18, first seen 2026-08-15T09:47:57.021Z, uncertainty ±7m
+- Vishwanath and Sons — show 2026-08-18, first seen 2026-08-15T09:47:57.021Z, uncertainty ±7m
+- Vishwanath and Sons — show 2026-08-18, first seen 2026-08-15T09:47:57.021Z, uncertainty ±7m
+- G.D.N — show 2026-08-18, first seen 2026-08-15T09:47:57.021Z, uncertainty ±7m
+- DC — show 2026-08-18, first seen 2026-08-15T09:47:57.021Z, uncertainty ±7m
+- Awarapan 2 — show 2026-08-19, first seen 2026-08-15T09:47:59.438Z, uncertainty ±7m
+- The End of Oak Street — show 2026-08-19, first seen 2026-08-15T09:47:59.438Z, uncertainty ±7m
+- Vishwanath and Sons — show 2026-08-19, first seen 2026-08-15T09:47:59.438Z, uncertainty ±7m
+- Vishwanath and Sons — show 2026-08-19, first seen 2026-08-15T09:47:59.438Z, uncertainty ±7m
+- G.D.N — show 2026-08-19, first seen 2026-08-15T09:47:59.438Z, uncertainty ±7m
+- DC — show 2026-08-19, first seen 2026-08-15T09:47:59.438Z, uncertainty ±7m
 
 ## Coverage
-- Polls attempted: 7268, succeeded: 7256 (99.8%)
+- Polls attempted: 7676, succeeded: 7664 (99.8%)
 - Longest gap between successful polls: 4:53:31.616000 (INOX Phoenix Market City (formerly Jazz Cinemas), Velachery, Chennai)
 - Hot-window / Tier 2 polls run: n/a (Tier 2 deferred, `tiers.tier2_enabled: false`)
 
 ## Lead time (booking-open → show date), per venue
-- INOX Phoenix Market City (formerly Jazz Cinemas), Velachery, Chennai: n=992, min=-1d, median=2d, max=4d
-- PVR Palazzo, The Nexus Vijaya Mall, Chennai: n=1000, min=-1d, median=2d, max=4d
-- PVR VR Mall, Anna Nagar, Chennai: n=1113, min=-1d, median=2d, max=6d
-- Cinepolis BSR Mall OMR, Thoraipakkam, Chennai: n=954, min=-1d, median=2d, max=7d
+- INOX Phoenix Market City (formerly Jazz Cinemas), Velachery, Chennai: n=1025, min=-1d, median=2d, max=4d
+- PVR Palazzo, The Nexus Vijaya Mall, Chennai: n=1007, min=-1d, median=2d, max=4d
+- PVR VR Mall, Anna Nagar, Chennai: n=1118, min=-1d, median=2d, max=6d
+- Cinepolis BSR Mall OMR, Thoraipakkam, Chennai: n=980, min=-1d, median=2d, max=7d
 
 ## Films seen at one venue but not others
 - Dookudu: seen at Cinepolis BSR Mall OMR, Thoraipakkam, Chennai, INOX Phoenix Market City (formerly Jazz Cinemas), Velachery, Chennai, PVR VR Mall, Anna Nagar, Chennai
@@ -1742,7 +1315,7 @@ _Generated 2026-08-15 03:02 UTC_
 - The End of Oak Street: seen at Cinepolis BSR Mall OMR, Thoraipakkam, Chennai, PVR VR Mall, Anna Nagar, Chennai
 - Tera Yaar Hoon Main: seen at INOX Phoenix Market City (formerly Jazz Cinemas), Velachery, Chennai
 - Nocturnes: seen at PVR VR Mall, Anna Nagar, Chennai
-- Vishwanath and Sons: seen at PVR VR Mall, Anna Nagar, Chennai
+- Vishwanath and Sons: seen at Cinepolis BSR Mall OMR, Thoraipakkam, Chennai, PVR VR Mall, Anna Nagar, Chennai
 - The Odyssey: seen at INOX Phoenix Market City (formerly Jazz Cinemas), Velachery, Chennai, PVR Palazzo, The Nexus Vijaya Mall, Chennai
 - Toy Story 5: seen at PVR VR Mall, Anna Nagar, Chennai
 - Minions & Monsters: seen at PVR VR Mall, Anna Nagar, Chennai
