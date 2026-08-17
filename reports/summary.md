@@ -1,14 +1,10 @@
 # Coverage & Findings Summary
 
-_Generated 2026-08-16 03:12 UTC_
+_Generated 2026-08-17 03:12 UTC_
 
 ## Release events (last 7 days)
 
 ### INOX Phoenix Market City (formerly Jazz Cinemas), Velachery, Chennai
-- Jana Nayagan — show 2026-08-10, first seen 2026-08-09T11:32:13.502Z, uncertainty ±14m
-- Jana Nayagan — show 2026-08-10, first seen 2026-08-09T11:32:13.502Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-10, first seen 2026-08-09T11:32:13.502Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-10, first seen 2026-08-09T11:32:13.502Z, uncertainty ±14m
 - Jana Nayagan — show 2026-08-11, first seen 2026-08-10T11:47:12.937Z, uncertainty ±14m
 - Jana Nayagan — show 2026-08-11, first seen 2026-08-10T11:47:12.937Z, uncertainty ±14m
 - Spider-Man: Brand New Day — show 2026-08-11, first seen 2026-08-10T11:47:12.937Z, uncertainty ±14m
@@ -337,10 +333,12 @@ _Generated 2026-08-16 03:12 UTC_
 - Batwara 1947 — show 2026-08-19, first seen 2026-08-15T19:47:42.816Z, uncertainty ±14m
 - Magudam — show 2026-08-19, first seen 2026-08-15T19:47:42.816Z, uncertainty ±14m
 - Magudam — show 2026-08-19, first seen 2026-08-15T19:47:42.816Z, uncertainty ±14m
+- Magudam — show 2026-08-17, first seen 2026-08-16T05:33:03.244Z, uncertainty ±14m
+- Vishwanath and Sons — show 2026-08-18, first seen 2026-08-16T08:33:05.318Z, uncertainty ±14m
+- Vishwanath and Sons — show 2026-08-19, first seen 2026-08-16T08:33:07.877Z, uncertainty ±14m
+- Vishwanath and Sons — show 2026-08-17, first seen 2026-08-16T09:41:34.088Z, uncertainty ±8m
 
 ### PVR Palazzo, The Nexus Vijaya Mall, Chennai
-- DC — show 2026-08-12, first seen 2026-08-09T06:33:03.503Z, uncertainty ±14m
-- DC — show 2026-08-11, first seen 2026-08-09T06:47:47.189Z, uncertainty ±14m
 - Jana Nayagan — show 2026-08-13, first seen 2026-08-11T09:48:46.075Z, uncertainty ±14m
 - Jana Nayagan — show 2026-08-13, first seen 2026-08-11T09:48:46.075Z, uncertainty ±14m
 - Jana Nayagan — show 2026-08-13, first seen 2026-08-11T09:48:46.075Z, uncertainty ±14m
@@ -650,6 +648,9 @@ _Generated 2026-08-16 03:12 UTC_
 - Magudam — show 2026-08-17, first seen 2026-08-15T08:33:54.862Z, uncertainty ±15m
 - Magudam — show 2026-08-17, first seen 2026-08-15T08:33:54.862Z, uncertainty ±15m
 - Vishwanath and Sons — show 2026-08-16, first seen 2026-08-15T08:49:06.674Z, uncertainty ±14m
+- Vishwanath and Sons — show 2026-08-16, first seen 2026-08-16T12:04:31.834Z, uncertainty ±15m
+- Vishwanath and Sons — show 2026-08-17, first seen 2026-08-16T12:04:34.232Z, uncertainty ±15m
+- Vishwanath and Sons — show 2026-08-16, first seen 2026-08-16T14:48:38.370Z, uncertainty ±14m
 
 ### PVR VR Mall, Anna Nagar, Chennai
 - Photographer — show 2026-08-11, first seen 2026-08-10T13:04:07.269Z, uncertainty ±14m
@@ -994,6 +995,31 @@ _Generated 2026-08-16 03:12 UTC_
 - Vishwanath and Sons — show 2026-08-18, first seen 2026-08-15T05:34:07.406Z, uncertainty ±14m
 - Vishwanath and Sons — show 2026-08-19, first seen 2026-08-15T08:34:26.166Z, uncertainty ±15m
 - Vishwanath and Sons — show 2026-08-16, first seen 2026-08-15T14:48:54.860Z, uncertainty ±13m
+- Awarapan 2 — show 2026-08-17, first seen 2026-08-16T04:19:10.845Z, uncertainty ±17m
+- Awarapan 2 — show 2026-08-17, first seen 2026-08-16T04:19:10.845Z, uncertainty ±17m
+- Jana Nayagan — show 2026-08-17, first seen 2026-08-16T04:19:10.845Z, uncertainty ±17m
+- Spider-Man: Brand New Day — show 2026-08-17, first seen 2026-08-16T04:19:10.845Z, uncertainty ±17m
+- Vishwanath and Sons — show 2026-08-17, first seen 2026-08-16T04:19:10.845Z, uncertainty ±17m
+- Awarapan 2 — show 2026-08-18, first seen 2026-08-16T04:19:13.505Z, uncertainty ±17m
+- Awarapan 2 — show 2026-08-18, first seen 2026-08-16T04:19:13.505Z, uncertainty ±17m
+- Jana Nayagan — show 2026-08-18, first seen 2026-08-16T04:19:13.505Z, uncertainty ±17m
+- Spider-Man: Brand New Day — show 2026-08-18, first seen 2026-08-16T04:19:13.505Z, uncertainty ±17m
+- Vishwanath and Sons — show 2026-08-18, first seen 2026-08-16T04:19:13.505Z, uncertainty ±17m
+- Awarapan 2 — show 2026-08-19, first seen 2026-08-16T04:19:15.958Z, uncertainty ±17m
+- Awarapan 2 — show 2026-08-19, first seen 2026-08-16T04:19:15.958Z, uncertainty ±17m
+- Jana Nayagan — show 2026-08-19, first seen 2026-08-16T04:19:15.958Z, uncertainty ±17m
+- Spider-Man: Brand New Day — show 2026-08-19, first seen 2026-08-16T04:19:15.958Z, uncertainty ±17m
+- Vishwanath and Sons — show 2026-08-19, first seen 2026-08-16T04:19:15.958Z, uncertainty ±17m
+- Awarapan 2 — show 2026-08-17, first seen 2026-08-16T07:19:10.669Z, uncertainty ±17m
+- Magudam — show 2026-08-17, first seen 2026-08-16T07:19:10.669Z, uncertainty ±17m
+- The End of Oak Street — show 2026-08-17, first seen 2026-08-16T07:34:17.393Z, uncertainty ±14m
+- Vishwanath and Sons — show 2026-08-18, first seen 2026-08-16T08:34:25.455Z, uncertainty ±14m
+- Vishwanath and Sons — show 2026-08-18, first seen 2026-08-16T08:34:25.455Z, uncertainty ±14m
+- Vishwanath and Sons — show 2026-08-19, first seen 2026-08-16T08:34:27.933Z, uncertainty ±14m
+- Vishwanath and Sons — show 2026-08-17, first seen 2026-08-16T09:19:08.114Z, uncertainty ±14m
+- Vishwanath and Sons — show 2026-08-17, first seen 2026-08-16T09:19:08.114Z, uncertainty ±14m
+- Vishwanath and Sons — show 2026-08-17, first seen 2026-08-16T09:34:25.562Z, uncertainty ±14m
+- Vishwanath and Sons — show 2026-08-19, first seen 2026-08-16T09:34:30.464Z, uncertainty ±14m
 
 ### Cinepolis BSR Mall OMR, Thoraipakkam, Chennai
 - DC — show 2026-08-11, first seen 2026-08-10T05:35:18.681Z, uncertainty ±17m
@@ -1293,17 +1319,21 @@ _Generated 2026-08-16 03:12 UTC_
 - Vishwanath and Sons — show 2026-08-19, first seen 2026-08-15T09:47:59.438Z, uncertainty ±7m
 - G.D.N — show 2026-08-19, first seen 2026-08-15T09:47:59.438Z, uncertainty ±7m
 - DC — show 2026-08-19, first seen 2026-08-15T09:47:59.438Z, uncertainty ±7m
+- Vishwanath and Sons — show 2026-08-16, first seen 2026-08-16T05:33:28.623Z, uncertainty ±14m
+- Vishwanath and Sons — show 2026-08-17, first seen 2026-08-16T09:03:40.059Z, uncertainty ±14m
+- Vishwanath and Sons — show 2026-08-18, first seen 2026-08-16T09:03:42.451Z, uncertainty ±15m
+- Vishwanath and Sons — show 2026-08-19, first seen 2026-08-16T09:03:44.885Z, uncertainty ±15m
 
 ## Coverage
-- Polls attempted: 7676, succeeded: 7664 (99.8%)
+- Polls attempted: 8068, succeeded: 8056 (99.9%)
 - Longest gap between successful polls: 4:53:31.616000 (INOX Phoenix Market City (formerly Jazz Cinemas), Velachery, Chennai)
 - Hot-window / Tier 2 polls run: n/a (Tier 2 deferred, `tiers.tier2_enabled: false`)
 
 ## Lead time (booking-open → show date), per venue
-- INOX Phoenix Market City (formerly Jazz Cinemas), Velachery, Chennai: n=1025, min=-1d, median=2d, max=4d
-- PVR Palazzo, The Nexus Vijaya Mall, Chennai: n=1007, min=-1d, median=2d, max=4d
-- PVR VR Mall, Anna Nagar, Chennai: n=1118, min=-1d, median=2d, max=6d
-- Cinepolis BSR Mall OMR, Thoraipakkam, Chennai: n=980, min=-1d, median=2d, max=7d
+- INOX Phoenix Market City (formerly Jazz Cinemas), Velachery, Chennai: n=1029, min=-1d, median=2d, max=4d
+- PVR Palazzo, The Nexus Vijaya Mall, Chennai: n=1010, min=-1d, median=2d, max=4d
+- PVR VR Mall, Anna Nagar, Chennai: n=1143, min=-1d, median=2d, max=6d
+- Cinepolis BSR Mall OMR, Thoraipakkam, Chennai: n=984, min=-1d, median=2d, max=7d
 
 ## Films seen at one venue but not others
 - Dookudu: seen at Cinepolis BSR Mall OMR, Thoraipakkam, Chennai, INOX Phoenix Market City (formerly Jazz Cinemas), Velachery, Chennai, PVR VR Mall, Anna Nagar, Chennai
