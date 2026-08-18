@@ -1,17 +1,10 @@
 # Coverage & Findings Summary
 
-_Generated 2026-08-17 03:12 UTC_
+_Generated 2026-08-18 03:07 UTC_
 
 ## Release events (last 7 days)
 
 ### INOX Phoenix Market City (formerly Jazz Cinemas), Velachery, Chennai
-- Jana Nayagan — show 2026-08-11, first seen 2026-08-10T11:47:12.937Z, uncertainty ±14m
-- Jana Nayagan — show 2026-08-11, first seen 2026-08-10T11:47:12.937Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-11, first seen 2026-08-10T11:47:12.937Z, uncertainty ±14m
-- Spider-Man: Brand New Day — show 2026-08-11, first seen 2026-08-10T11:47:12.937Z, uncertainty ±14m
-- DC — show 2026-08-11, first seen 2026-08-10T13:02:48.169Z, uncertainty ±14m
-- G.D.N — show 2026-08-12, first seen 2026-08-10T13:02:50.642Z, uncertainty ±14m
-- G.D.N — show 2026-08-11, first seen 2026-08-10T13:17:27.317Z, uncertainty ±14m
 - Ohh My Dog — show 2026-08-12, first seen 2026-08-11T08:33:32.587Z, uncertainty ±15m
 - Jana Nayagan — show 2026-08-12, first seen 2026-08-11T13:17:42.915Z, uncertainty ±14m
 - Jana Nayagan — show 2026-08-12, first seen 2026-08-11T13:17:42.915Z, uncertainty ±14m
@@ -337,6 +330,16 @@ _Generated 2026-08-17 03:12 UTC_
 - Vishwanath and Sons — show 2026-08-18, first seen 2026-08-16T08:33:05.318Z, uncertainty ±14m
 - Vishwanath and Sons — show 2026-08-19, first seen 2026-08-16T08:33:07.877Z, uncertainty ±14m
 - Vishwanath and Sons — show 2026-08-17, first seen 2026-08-16T09:41:34.088Z, uncertainty ±8m
+- Vishwanath and Sons — show 2026-08-18, first seen 2026-08-17T05:33:52.875Z, uncertainty ±15m
+- Vishwanath and Sons — show 2026-08-19, first seen 2026-08-17T05:33:55.405Z, uncertainty ±15m
+- Awarapan 2 — show 2026-08-17, first seen 2026-08-17T12:18:26.807Z, uncertainty ±14m
+- Vishwanath and Sons — show 2026-08-17, first seen 2026-08-17T12:18:26.807Z, uncertainty ±14m
+- Awarapan 2 — show 2026-08-18, first seen 2026-08-17T12:18:27.302Z, uncertainty ±14m
+- Vishwanath and Sons — show 2026-08-18, first seen 2026-08-17T12:18:27.302Z, uncertainty ±14m
+- Vishwanath and Sons — show 2026-08-18, first seen 2026-08-17T12:18:27.302Z, uncertainty ±14m
+- Awarapan 2 — show 2026-08-19, first seen 2026-08-17T12:32:14.418Z, uncertainty ±13m
+- Vishwanath and Sons — show 2026-08-19, first seen 2026-08-17T12:32:14.418Z, uncertainty ±13m
+- Vishwanath and Sons — show 2026-08-19, first seen 2026-08-17T12:32:14.418Z, uncertainty ±13m
 
 ### PVR Palazzo, The Nexus Vijaya Mall, Chennai
 - Jana Nayagan — show 2026-08-13, first seen 2026-08-11T09:48:46.075Z, uncertainty ±14m
@@ -651,10 +654,10 @@ _Generated 2026-08-17 03:12 UTC_
 - Vishwanath and Sons — show 2026-08-16, first seen 2026-08-16T12:04:31.834Z, uncertainty ±15m
 - Vishwanath and Sons — show 2026-08-17, first seen 2026-08-16T12:04:34.232Z, uncertainty ±15m
 - Vishwanath and Sons — show 2026-08-16, first seen 2026-08-16T14:48:38.370Z, uncertainty ±14m
+- Vishwanath and Sons — show 2026-08-18, first seen 2026-08-17T03:19:07.122Z, uncertainty ±14m
+- Vishwanath and Sons — show 2026-08-19, first seen 2026-08-17T03:19:09.503Z, uncertainty ±14m
 
 ### PVR VR Mall, Anna Nagar, Chennai
-- Photographer — show 2026-08-11, first seen 2026-08-10T13:04:07.269Z, uncertainty ±14m
-- Photographer — show 2026-08-12, first seen 2026-08-10T13:04:09.867Z, uncertainty ±14m
 - DC — show 2026-08-12, first seen 2026-08-11T07:18:45.441Z, uncertainty ±14m
 - Dookudu — show 2026-08-13, first seen 2026-08-11T08:34:55.200Z, uncertainty ±15m
 - Vinnaithaandi Varuvaayaa — show 2026-08-13, first seen 2026-08-11T08:34:55.200Z, uncertainty ±15m
@@ -1020,19 +1023,10 @@ _Generated 2026-08-17 03:12 UTC_
 - Vishwanath and Sons — show 2026-08-17, first seen 2026-08-16T09:19:08.114Z, uncertainty ±14m
 - Vishwanath and Sons — show 2026-08-17, first seen 2026-08-16T09:34:25.562Z, uncertainty ±14m
 - Vishwanath and Sons — show 2026-08-19, first seen 2026-08-16T09:34:30.464Z, uncertainty ±14m
+- Gatta Kusthi 2 — show 2026-08-17, first seen 2026-08-17T10:34:40.814Z, uncertainty ±14m
+- Gatta Kusthi 2 — show 2026-08-19, first seen 2026-08-17T13:18:45.231Z, uncertainty ±14m
 
 ### Cinepolis BSR Mall OMR, Thoraipakkam, Chennai
-- DC — show 2026-08-11, first seen 2026-08-10T05:35:18.681Z, uncertainty ±17m
-- DC — show 2026-08-12, first seen 2026-08-10T05:35:21.204Z, uncertainty ±17m
-- DC — show 2026-08-11, first seen 2026-08-10T09:17:40.477Z, uncertainty ±13m
-- DC — show 2026-08-11, first seen 2026-08-10T09:17:40.477Z, uncertainty ±13m
-- DC — show 2026-08-12, first seen 2026-08-10T09:17:42.846Z, uncertainty ±13m
-- DC — show 2026-08-12, first seen 2026-08-10T09:17:42.846Z, uncertainty ±13m
-- DC — show 2026-08-11, first seen 2026-08-11T02:47:56.538Z, uncertainty ±14m
-- Thudakkam — show 2026-08-12, first seen 2026-08-11T02:47:58.950Z, uncertainty ±14m
-- Korean Kanakaraju — show 2026-08-12, first seen 2026-08-11T02:47:58.950Z, uncertainty ±14m
-- DC — show 2026-08-12, first seen 2026-08-11T02:47:58.950Z, uncertainty ±14m
-- DC — show 2026-08-12, first seen 2026-08-11T02:47:58.950Z, uncertainty ±14m
 - Jana Nayagan — show 2026-08-13, first seen 2026-08-12T09:48:19.574Z, uncertainty ±14m
 - Jana Nayagan — show 2026-08-13, first seen 2026-08-12T09:48:19.574Z, uncertainty ±14m
 - Jana Nayagan — show 2026-08-13, first seen 2026-08-12T09:48:19.574Z, uncertainty ±14m
@@ -1323,17 +1317,18 @@ _Generated 2026-08-17 03:12 UTC_
 - Vishwanath and Sons — show 2026-08-17, first seen 2026-08-16T09:03:40.059Z, uncertainty ±14m
 - Vishwanath and Sons — show 2026-08-18, first seen 2026-08-16T09:03:42.451Z, uncertainty ±15m
 - Vishwanath and Sons — show 2026-08-19, first seen 2026-08-16T09:03:44.885Z, uncertainty ±15m
+- Vishwanath and Sons — show 2026-08-17, first seen 2026-08-17T09:18:32.637Z, uncertainty ±14m
 
 ## Coverage
-- Polls attempted: 8068, succeeded: 8056 (99.9%)
+- Polls attempted: 8448, succeeded: 8232 (97.4%)
 - Longest gap between successful polls: 4:53:31.616000 (INOX Phoenix Market City (formerly Jazz Cinemas), Velachery, Chennai)
 - Hot-window / Tier 2 polls run: n/a (Tier 2 deferred, `tiers.tier2_enabled: false`)
 
 ## Lead time (booking-open → show date), per venue
-- INOX Phoenix Market City (formerly Jazz Cinemas), Velachery, Chennai: n=1029, min=-1d, median=2d, max=4d
-- PVR Palazzo, The Nexus Vijaya Mall, Chennai: n=1010, min=-1d, median=2d, max=4d
-- PVR VR Mall, Anna Nagar, Chennai: n=1143, min=-1d, median=2d, max=6d
-- Cinepolis BSR Mall OMR, Thoraipakkam, Chennai: n=984, min=-1d, median=2d, max=7d
+- INOX Phoenix Market City (formerly Jazz Cinemas), Velachery, Chennai: n=1039, min=-1d, median=2d, max=4d
+- PVR Palazzo, The Nexus Vijaya Mall, Chennai: n=1012, min=-1d, median=2d, max=4d
+- PVR VR Mall, Anna Nagar, Chennai: n=1145, min=-1d, median=2d, max=6d
+- Cinepolis BSR Mall OMR, Thoraipakkam, Chennai: n=985, min=-1d, median=2d, max=7d
 
 ## Films seen at one venue but not others
 - Dookudu: seen at Cinepolis BSR Mall OMR, Thoraipakkam, Chennai, INOX Phoenix Market City (formerly Jazz Cinemas), Velachery, Chennai, PVR VR Mall, Anna Nagar, Chennai
