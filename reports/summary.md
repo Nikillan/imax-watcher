@@ -1,13 +1,13 @@
 # Coverage & Findings Summary
 
-_Generated 2026-09-14 07:52 UTC_
+_Generated 2026-09-15 07:39 UTC_
 
 ## Release events (last 7 days)
 
 None recorded in the last 7 days.
 
 ## Coverage
-- Polls attempted: 19292, succeeded: 8232 (42.7%)
+- Polls attempted: 19688, succeeded: 8232 (41.8%)
 - Longest gap between successful polls: 4:53:31.616000 (INOX Phoenix Market City (formerly Jazz Cinemas), Velachery, Chennai)
 - Hot-window / Tier 2 polls run: n/a (Tier 2 deferred, `tiers.tier2_enabled: false`)
 
